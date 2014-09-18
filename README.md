@@ -6,7 +6,7 @@ russia-it-podcast
 ![](https://pbs.twimg.com/media/BxeayTeIQAAgf5M.png:large)
 
 
-#### Радио-Т [site](http://www.radio-t.com/)
+#### Радио-Т [site](http://www.radio-t.com/), [itunes](https://itunes.apple.com/ru/podcast/radio-t/id256504435)
 
 Разговоры на темы хайтек, высоких компьютерных технологий, гаджетов, облаков, программирования и прочего интересного из мира ИТ.
 

@@ -38,6 +38,16 @@ RubyNoName подкаст — это русскоязычный подкаст �
 ----------------
 
 
+#### RWpod [site](http://www.rwpod.com/)
+
+Подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле).
+
+| Ведущие             | github                                   | twitter                                   |
+| :------------------ | ---------------------------------------- | ----------------------------------------- |
+| Алексей Васильев    | [github](https://github.com/le0pard/)    | [twitter](https://twitter.com/leopard_me) |
+| Александр Чаплинский| [github](https://github.com/alchapone)   | [twitter](https://twitter.com/a1chapone)  |
+
+
 
 #### Разбор Полетов [site](http://razbor-poletov.com/), [github](https://github.com/razbor-poletov)
 

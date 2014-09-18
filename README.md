@@ -14,7 +14,9 @@ russia-it-podcast
 | Сергей Петренко     | [github](https://github.com/grayru)  | [twitter](https://twitter.com/gray_ru)  | 
 
 
+
 ----------------
+
 
 
 #### RubyNoName [site](http://rubynoname.ru/)
@@ -28,7 +30,9 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Кир Шатров          | [github](https://github.com/kirs)        | [twitter](https://twitter.com/kirs)       |
 
 
+
 ----------------
+
 
 
 #### EaxCast [site](http://eax.me/tag/podcast/), [rpod](http://eaxcast.rpod.ru/)
@@ -38,4 +42,5 @@ RubyNoName подкаст — это русскоязычный подкаст �
 
 | Ведущие             | github                                   | twitter                                   |
 | :------------------ | ---------------------------------------- | ----------------------------------------- |
+| Валерий Мелешкин    | [github](https://github.com/sumerman)    | [twitter](https://twitter.com/sum3rman)   |
 | Александр Алексеев  | [github](https://github.com/afiskon)     | [twitter](https://twitter.com/afiskon)    |

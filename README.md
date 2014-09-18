@@ -48,7 +48,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 <br><hr><br>
 
 
-#### Разбор Полетов [site](http://razbor-poletov.com/), [github](https://github.com/razbor-poletov)
+#### Разбор Полетов [site](http://razbor-poletov.com/), [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G)
 
 Болтологический подкаст о технологиях и разработке программного обеспечения
 
@@ -61,7 +61,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 <br><hr><br>
 
 
-#### EaxCast [site](http://eax.me/tag/podcast/), [rpod](http://eaxcast.rpod.ru/)
+#### EaxCast [site](http://eax.me/tag/podcast/), [rpod](http://eaxcast.rpod.ru/), [itunes](http://vk.cc/2YIFhh)
 
 Подкаст делает особый акцент на "не мейнстримовых" технологиях, таких, как функциональное программирование и NoSQL базы данных. Впрочем, тематика не ограничивается исключительно этими вопросами. Подкаст публикуется эпизодами по 40-45 минут каждые две недели.
 
@@ -75,7 +75,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 <br><hr><br>
 
 
-#### DevZen [site](http://devzen.ru/)
+#### DevZen [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
 
 Old EaxCast, в основном про функциональное программирование.
 
@@ -90,7 +90,7 @@ Old EaxCast, в основном про функциональное прогр�
 <br><hr><br>
 
 
-#### Sorax [youtube](http://www.youtube.com/user/ArtSorax/), [podcast](http://www.youtube.com/playlist?list=PL363QX7S8MfQXvOhVkCTtJ1uWXkbrKMz7)
+#### Sorax [youtube](http://www.youtube.com/user/ArtSorax/), [podcast](http://vk.cc/2YIFEv)
 
 JavaScript, 0% воды
 
@@ -103,7 +103,7 @@ JavaScript, 0% воды
 <br><hr><br>
 
 
-#### Frontflip [site](http://frontflip.me/)
+#### Frontflip [site](http://frontflip.me/), [itunes](http://vk.cc/2YIFuW)
 
 Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях
 

@@ -18,9 +18,7 @@ russia-it-podcast
 | Сергей Петренко     | [github](https://github.com/grayru)  | [twitter](https://twitter.com/gray_ru)  | 
 
 
-
-----------------
-
+<hr><br>
 
 
 #### RubyNoName [site](http://rubynoname.ru/)
@@ -34,8 +32,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Кир Шатров          | [github](https://github.com/kirs)        | [twitter](https://twitter.com/kirs)       |
 
 
-
-----------------
+<hr><br>
 
 
 #### RWpod [site](http://www.rwpod.com/)
@@ -48,6 +45,8 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Александр Чаплинский| [github](https://github.com/alchapone)   | [twitter](https://twitter.com/a1chapone)  |
 
 
+<hr><br>
+
 
 #### Разбор Полетов [site](http://razbor-poletov.com/), [github](https://github.com/razbor-poletov)
 
@@ -59,9 +58,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Алексей Абашев      | [github](https://github.com/abashev)     | [twitter](https://twitter.com/a_abashev)  |
 
 
-
-----------------
-
+<hr><br>
 
 
 #### EaxCast [site](http://eax.me/tag/podcast/), [rpod](http://eaxcast.rpod.ru/)
@@ -75,9 +72,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Александр Алексеев  | [github](https://github.com/afiskon)     | [twitter](https://twitter.com/afiskon)    |
 
 
-
-------------------
-
+<hr><br>
 
 
 #### DevZen [site](http://devzen.ru/)
@@ -92,8 +87,7 @@ Old EaxCast, в основном про функциональное прогр�
 | Светлана Божко      | [github](https://github.com/sbozhko)     | [twitter](https://twitter.com/sbozhko)    |
 
 
---------------------
-
+<hr><br>
 
 
 #### Sorax [youtube](http://www.youtube.com/user/ArtSorax/), [podcast](http://www.youtube.com/playlist?list=PL363QX7S8MfQXvOhVkCTtJ1uWXkbrKMz7)
@@ -106,10 +100,7 @@ JavaScript, 0% воды
 | Артем Гринберг      | [github](https://github.com/artsorax)    | [vk](http://vk.com/art.sorax)       |
 
 
-
-
---------------------
-
+<hr><br>
 
 
 #### Frontflip [site](http://frontflip.me/)

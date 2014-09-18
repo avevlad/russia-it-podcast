@@ -74,5 +74,36 @@ Old EaxCast, в основном про функциональное прогр�
 | Ведущие             | github                                   | twitter                                   |
 | :------------------ | ---------------------------------------- | ----------------------------------------- |
 | Александр Алексеев  | [github](https://github.com/afiskon)     | [twitter](https://twitter.com/afiskon)    |
-| Иван Глушков        | [github](https://github.com/gliush)      | [twitter](https://twitter.com/gliush)    |
+| Иван Глушков        | [github](https://github.com/gliush)      | [twitter](https://twitter.com/gliush)     |
 | Светлана Божко      | [github](https://github.com/sbozhko)     | [twitter](https://twitter.com/sbozhko)    |
+
+
+--------------------
+
+
+
+#### Sorax [youtube](http://www.youtube.com/user/ArtSorax/), [podcast](http://www.youtube.com/playlist?list=PL363QX7S8MfQXvOhVkCTtJ1uWXkbrKMz7)
+
+JavaScript, 0% воды
+
+
+| Ведущие             | github                                   | vk                                  |
+| :------------------ | ---------------------------------------- | ----------------------------------- |
+| Артем Гринберг      | [github](https://github.com/artsorax)    | [vk](http://vk.com/art.sorax)       |
+
+
+
+
+--------------------
+
+
+
+#### Frontflip [site](http://frontflip.me/)
+
+Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях
+
+
+| Ведущие             | github                                   | twitter                                    |
+| :------------------ | ---------------------------------------- | ------------------------------------------ |
+| Илья Заяц           | [github](https://github.com/somebody32)  | [twitter](https://twitter.com/23ydobemos)  |
+| Артем Сущев         | [github](https://github.com/H1D)         | [twitter](https://twitter.com/asuschev)    |

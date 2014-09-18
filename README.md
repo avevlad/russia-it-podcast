@@ -1,6 +1,10 @@
 russia-it-podcast
 =================
 
+Список русскоязычных подкастов на тему информационных технологий.
+
+![](https://pbs.twimg.com/media/BxeayTeIQAAgf5M.png:large)
+
 
 #### Радио-Т [site](http://www.radio-t.com/)
 

@@ -112,3 +112,14 @@ JavaScript, 0% воды
 | :------------------ | ---------------------------------------- | ------------------------------------------ |
 | Илья Заяц           | [github](https://github.com/somebody32)  | [twitter](https://twitter.com/23ydobemos)  |
 | Артем Сущев         | [github](https://github.com/H1D)         | [twitter](https://twitter.com/asuschev)    |
+
+
+#### Как делают игры [site](http://galyonkin.com/podcast/), [itunes](http://vk.cc/2ZsSzE)
+
+Подкаст о создании игр.
+
+
+| Ведущие             | twitter                                    |
+| :------------------ | ------------------------------------------ |
+| Сергей Галёнкин     | [twitter](https://twitter.com/galyonkin)   |
+| Михаил Кузьмин      | [twitter](https://twitter.com/kuzmitch_ru) |

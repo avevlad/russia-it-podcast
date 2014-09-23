@@ -114,10 +114,12 @@ JavaScript, 0% воды
 | Артем Сущев         | [github](https://github.com/H1D)         | [twitter](https://twitter.com/asuschev)    |
 
 
+<br><hr><br>
+
+
 #### Как делают игры [site](http://galyonkin.com/podcast/), [itunes](http://vk.cc/2ZsSzE)
 
 Подкаст о создании игр.
-
 
 | Ведущие             | twitter                                    |
 | :------------------ | ------------------------------------------ |

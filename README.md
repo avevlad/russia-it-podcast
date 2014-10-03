@@ -21,6 +21,21 @@ russia-it-podcast
 <br><hr><br>
 
 
+#### RadioJS [site](http://radiojs.ru/), [itunes](https://itunes.apple.com/ru/podcast/radio-js/id904938655)
+
+Подкаст о веб-разработке, фронтенде и client-side.
+
+
+| Ведущие             | github                                       | twitter                                         |
+| :------------------ | -------------------------------------------- | ----------------------------------------------- |
+| Миша Башкиров       | [@bashmish](https://github.com/bashmish)     | [@bashmish](https://twitter.com/bashmish)       |
+| Константин Буркалев | [@KSDaemon](https://github.com/KSDaemon)     | [@KSDaemon](https://twitter.com/KSDaemon)       |
+| Андрей Саломатин    | [@filipovsky](https://github.com/filipovsky) | [@filipovskii](https://twitter.com/filipovskii) |
+
+
+<br><hr><br>
+
+
 #### RubyNoName [site](http://rubynoname.ru/), [itunes](http://vk.cc/2YIEAY)
 
 RubyNoName подкаст — это русскоязычный подкаст о языке Ruby и всем, что с ним связано, будь то веб-фреймворк Rails, Sinatra, очереди сообщений, базы данных или даже системы управления конфигурацией Chef или Puppet.

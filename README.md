@@ -6,6 +6,23 @@ russia-it-podcast
 ![](https://pbs.twimg.com/media/BxeayTeIQAAgf5M.png:large)
 
 
+
+
+#### DevZen [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
+
+Old EaxCast, в основном про функциональное программирование.
+
+
+| Ведущие             | github                                   | twitter                                   |
+| :------------------ | ---------------------------------------- | ----------------------------------------- |
+| Александр Алексеев  | [github](https://github.com/afiskon)     | [twitter](https://twitter.com/afiskon)    |
+| Иван Глушков        | [github](https://github.com/gliush)      | [twitter](https://twitter.com/gliush)     |
+| Светлана Божко      | [github](https://github.com/sbozhko)     | [twitter](https://twitter.com/sbozhko)    |
+
+
+<br><hr><br>
+
+
 #### Радио-Т [site](http://www.radio-t.com/), [itunes](http://vk.cc/1Fad2N), [pirates version](http://pirates.radio-t.com/)
 
 Разговоры на темы хайтек, высоких компьютерных технологий, гаджетов, облаков, программирования и прочего интересного из мира ИТ.
@@ -85,21 +102,6 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | :------------------ | ---------------------------------------- | ----------------------------------------- |
 | Валерий Мелешкин    | [github](https://github.com/sumerman)    | [twitter](https://twitter.com/sum3rman)   |
 | Александр Алексеев  | [github](https://github.com/afiskon)     | [twitter](https://twitter.com/afiskon)    |
-
-
-<br><hr><br>
-
-
-#### DevZen [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
-
-Old EaxCast, в основном про функциональное программирование.
-
-
-| Ведущие             | github                                   | twitter                                   |
-| :------------------ | ---------------------------------------- | ----------------------------------------- |
-| Александр Алексеев  | [github](https://github.com/afiskon)     | [twitter](https://twitter.com/afiskon)    |
-| Иван Глушков        | [github](https://github.com/gliush)      | [twitter](https://twitter.com/gliush)     |
-| Светлана Божко      | [github](https://github.com/sbozhko)     | [twitter](https://twitter.com/sbozhko)    |
 
 
 <br><hr><br>

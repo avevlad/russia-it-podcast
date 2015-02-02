@@ -10,7 +10,7 @@ russia-it-podcast
 
 #### DevZen [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
 
-Old EaxCast, в основном про функциональное программирование.
+Old EaxCast, в основном про функциональное программирование. (на самом деле нет)
 
 
 | Ведущие             | github                                   | twitter                                   |

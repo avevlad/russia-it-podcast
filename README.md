@@ -30,9 +30,9 @@ Old EaxCast, в основном про функциональное прогр�
 
 | Ведущие             | github                               | twitter                                 |
 | :------------------ | ------------------------------------ | --------------------------------------- |
-| Григорий Бакунов    | [github](https://github.com/bobuk)   | [twitter](https://twitter.com/bobuk)    | 
-| Евгений Борт        | [github](https://github.com/umputun) | [twitter](https://twitter.com/umputun)  | 
-| Сергей Петренко     | [github](https://github.com/grayru)  | [twitter](https://twitter.com/gray_ru)  | 
+| Григорий Бакунов    | [github](https://github.com/bobuk)   | [twitter](https://twitter.com/bobuk)    |
+| Евгений Борт        | [github](https://github.com/umputun) | [twitter](https://twitter.com/umputun)  |
+| Сергей Петренко     | [github](https://github.com/grayru)  | [twitter](https://twitter.com/gray_ru)  |
 
 
 <br><hr><br>
@@ -60,7 +60,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 
 | Ведущие             | github                                   | twitter                                   |
 | :------------------ | ---------------------------------------- | ----------------------------------------- |
-| Андрей Дерябин      | [github](https://github.com/aderyabin)   | [twitter](https://twitter.com/aderyabin)  | 
+| Андрей Дерябин      | [github](https://github.com/aderyabin)   | [twitter](https://twitter.com/aderyabin)  |
 | Кир Шатров          | [github](https://github.com/kirs)        | [twitter](https://twitter.com/kirs)       |
 
 
@@ -86,7 +86,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 
 | Ведущие             | github                                   | twitter                                   |
 | :------------------ | ---------------------------------------- | ----------------------------------------- |
-| Виктор Гамов        | [github](https://github.com/gAmUssA)     | [twitter](https://twitter.com/gAmUssA)    | 
+| Виктор Гамов        | [github](https://github.com/gAmUssA)     | [twitter](https://twitter.com/gAmUssA)    |
 | Алексей Абашев      | [github](https://github.com/abashev)     | [twitter](https://twitter.com/a_abashev)  |
 
 
@@ -142,3 +142,15 @@ JavaScript, 0% воды
 | :------------------ | ------------------------------------------ |
 | Сергей Галёнкин     | [twitter](https://twitter.com/galyonkin)   |
 | Михаил Кузьмин      | [twitter](https://twitter.com/kuzmitch_ru) |
+
+
+<br><hr><br>
+
+
+#### uWebDesign [site](http://uwebdesign.ru/), [itunes](http://vk.cc/3yMhPk)
+
+Подкаст о веб-дизайне и веб-разработке.
+
+| Ведущие             | twitter                                    |
+| :------------------ | ------------------------------------------ |
+| Александр Гончаров  | [twitter](https://twitter.com/websanya)    |

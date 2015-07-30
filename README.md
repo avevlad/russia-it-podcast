@@ -154,3 +154,19 @@ JavaScript, 0% воды
 | Ведущие             | twitter                                    |
 | :------------------ | ------------------------------------------ |
 | Александр Гончаров  | [twitter](https://twitter.com/websanya)    |
+
+<br><hr><br>
+
+
+#### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7)
+
+Подкаст о тестироваии.
+
+| Ведущие             | blog                                          |
+| :------------------ | ------------------------------------------    |
+| Алексей Виноградов  | [blog](http://qa-blog.alexei-vinogradov.de/)  |
+| Андрей Мясников     | [blog](http://lazy-tester.blogspot.ru/)       |
+| Татьяна Зинченко    | [blog](http://vestfalka.blogspot.ru/)         |
+| Рина Ужевко         | [blog](http://rinauzhevko.blogspot.ru/)       |
+| Сергей Атрощенков   | [blog](http://barbaricqa.com/blog/)           |
+| Сергей Нестеренко   | [site](http://qahelp.net/)                    |

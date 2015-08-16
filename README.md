@@ -154,3 +154,16 @@ JavaScript, 0% воды
 | Ведущие             | twitter                                    |
 | :------------------ | ------------------------------------------ |
 | Александр Гончаров  | [twitter](https://twitter.com/websanya)    |
+
+<br><hr><br>
+
+
+#### Радиома [site](http://radioma.org/), [youtube](https://www.youtube.com/user/Coronzon32/videos), [itunes](http://vk.cc/45L3p2), [rss](http://feeds.feedburner.com/It-Radioma), [vk](https://vk.com/radiomaorg), [twitter](https://twitter.com/radioma_org)
+
+Развлекательный IT-подкаст. Обсуждение новостей из мира ИТ.
+
+| Ведущие             | vk                                     |
+| :------------------ | -------------------------------------- |
+| Андрей Зарубин      | [vk](https://vk.com/andrew_zarubin)    |
+| Сергей Карташов     | [site](http://sergo.ws/)               |
+| Мария Черняева      |                                        |

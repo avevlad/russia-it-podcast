@@ -157,6 +157,21 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
+#### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7)
+
+Подкаст о тестироваии.
+
+| Ведущие             | blog                                          |
+| :------------------ | ------------------------------------------    |
+| Алексей Виноградов  | [blog](http://qa-blog.alexei-vinogradov.de/)  |
+| Андрей Мясников     | [blog](http://lazy-tester.blogspot.ru/)       |
+| Татьяна Зинченко    | [blog](http://vestfalka.blogspot.ru/)         |
+| Рина Ужевко         | [blog](http://rinauzhevko.blogspot.ru/)       |
+| Сергей Атрощенков   | [blog](http://barbaricqa.com/blog/)           |
+| Сергей Нестеренко   | [site](http://qahelp.net/)                    |
+
+<br><hr><br>
+
 
 #### Радиома [site](http://radioma.org/), [youtube](https://www.youtube.com/user/Coronzon32/videos), [itunes](http://vk.cc/45L3p2), [rss](http://feeds.feedburner.com/It-Radioma), [vk](https://vk.com/radiomaorg), [twitter](https://twitter.com/radioma_org)
 

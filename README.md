@@ -1,10 +1,25 @@
-russia-it-podcast
-=================
+russian-it-podcasts
+===================
 Список русскоязычных подкастов на тему информационных технологий.
 
 ![podcasts](podcasts.png)
 
----
+### Содержание:
+|| [DevZen](#devzen)
+|| [Радио-Т](#Радио-Т)
+|| [RadioJS](#radiojs)
+|| [RubyNoName](#rubynoname)
+|| [RWpod](#rwpod)
+|| [Разбор Полетов](#Разбор-Полетов)
+|| [EaxCast](#eaxcast)
+|| [Sorax](#sorax)
+|| [Frontflip](#frontflip)
+|| [Как делают игры](#Как-делают-игры)
+|| [uWebDesign](#uwebdesign)
+|| [Radio QA](#radio-qa)
+|| [Радиома](#Радиома) ||
+
+----------------------------------------
 
 ## DevZen
 #### [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
@@ -22,7 +37,7 @@ Old EaxCast, в основном про функциональное прогр�
     [github](https://github.com/sbozhko)
     [twitter](https://twitter.com/sbozhko)
 
----
+----------------------------------------
 
 ## Радио-Т
 #### [site](http://www.radio-t.com/), [itunes](http://vk.cc/1Fad2N), [pirates version](http://pirates.radio-t.com/)
@@ -58,7 +73,7 @@ Old EaxCast, в основном про функциональное прогр�
     [github](https://github.com/filipovsky)
     [twitter](https://twitter.com/filipovskii)
 
----
+----------------------------------------
 
 ## RubyNoName
 #### [site](http://rubynoname.ru/), [itunes](http://vk.cc/2YIEAY)
@@ -73,7 +88,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
     [github](https://github.com/kirs)
     [twitter](https://twitter.com/kirs)
 
----
+----------------------------------------
 
 ## RWpod
 #### [site](http://www.rwpod.com/), [itunes](http://vk.cc/2YIEL6)
@@ -88,7 +103,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
     [github](https://github.com/alchapone)
     [twitter](https://twitter.com/a1chapone)
 
----
+----------------------------------------
 
 ## Разбор Полетов
 #### [site](http://razbor-poletov.com/), [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G)
@@ -103,7 +118,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
     [github](https://github.com/abashev)
     [twitter](https://twitter.com/a_abashev)
 
----
+----------------------------------------
 
 ## EaxCast
 #### [site](http://eax.me/tag/podcast/), [rpod](http://eaxcast.rpod.ru/), [itunes](http://vk.cc/2YIFhh)
@@ -118,7 +133,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
     [github](https://github.com/afiskon)
     [twitter](https://twitter.com/afiskon)
 
----
+----------------------------------------
 
 ## Sorax
 #### [youtube](http://www.youtube.com/user/ArtSorax/), [podcast](http://vk.cc/2YIFEv)
@@ -130,7 +145,7 @@ JavaScript, 0% воды
     [github](https://github.com/artsorax)
     [vk](http://vk.com/art.sorax)
 
----
+----------------------------------------
 
 ## Frontflip
 #### [site](http://frontflip.me/), [itunes](http://vk.cc/2YIFuW)
@@ -146,7 +161,7 @@ JavaScript, 0% воды
     [github](https://github.com/H1D)
     [twitter](https://twitter.com/asuschev)
 
----
+----------------------------------------
 
 ## Как делают игры
 #### [site](http://galyonkin.com/podcast/), [itunes](http://vk.cc/2ZsSzE)
@@ -159,7 +174,7 @@ JavaScript, 0% воды
 - Михаил Кузьмин
     [twitter](https://twitter.com/kuzmitch_ru)
 
----
+----------------------------------------
 
 ## uWebDesign
 #### [site](http://uwebdesign.ru/), [itunes](http://vk.cc/3yMhPk)
@@ -170,7 +185,7 @@ JavaScript, 0% воды
 - Александр Гончаров
     [twitter](https://twitter.com/websanya)
 
----
+----------------------------------------
 
 ## Radio QA
 #### [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7)
@@ -191,7 +206,7 @@ JavaScript, 0% воды
 - Сергей Нестеренко
     [site](http://qahelp.net/)
 
----
+----------------------------------------
 
 ## Радиома
 #### [site](http://radioma.org/), [youtube](https://www.youtube.com/user/Coronzon32/videos), [itunes](http://vk.cc/45L3p2), [rss](http://feeds.feedburner.com/It-Radioma), [vk](https://vk.com/radiomaorg), [twitter](https://twitter.com/radioma_org)
@@ -205,4 +220,4 @@ JavaScript, 0% воды
     [site](http://sergo.ws/)
 - Мария Черняева
 
----
+----------------------------------------

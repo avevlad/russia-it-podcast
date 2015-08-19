@@ -183,3 +183,13 @@ JavaScript, 0% воды
 | Андрей Зарубин      | [vk](https://vk.com/andrew_zarubin)    |
 | Сергей Карташов     | [site](http://sergo.ws/)               |
 | Мария Черняева      |                                        |
+
+<br><hr><br>
+
+#### Solo on .NET [podfm](https://spbaltnet.podfm.ru/solo/), [itunes] (https://itunes.apple.com/de/podcast/solo-on-.net/id730081104?mt=2)
+
+Подкаст про разработку программного обеспечения (программирование). Обсуждаемые темы - C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA и многое другое.
+
+| Ведущие             | twitter                                  | github                                   |
+| :------------------ | ---------------------------------------- | ---------------------------------------- |
+| Дмитрий Нестерук    | [twitter](https://twitter.com/dnesteruk) | [github](https://github.com/nesteruk)    |

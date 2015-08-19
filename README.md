@@ -18,7 +18,8 @@ russian-it-podcasts
 || [uWebDesign](#uwebdesign)
 || [Radio QA](#radio-qa)
 || [Радиома](#Радиома)
-|| [Solo on .NET](#solo-on-net) ||
+|| [Solo on .NET](#solo-on-net)
+|| [CTOcast](#CTOcast) ||
 
 ----------------------------------------
 
@@ -249,5 +250,16 @@ JavaScript, 0% воды
 - Дмитрий Нестерук
     [twitter](https://twitter.com/dnesteruk)
     [github](https://github.com/nesteruk)
+
+----------------------------------------
+
+## CTOcast
+#### [site](http://ctocast.com/), [itunes](https://itunes.apple.com/ru/podcast/ctocast/id945496997), [rss](http://feeds.feedburner.com/CTOcast)
+
+Подкаст о технологиях, процессах, инфраструктуре и людях в IT-компаниях.
+
+Ведущие:
+- Александра Астапенко
+- Павел Павлов
 
 ----------------------------------------

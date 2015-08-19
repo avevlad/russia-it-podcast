@@ -167,6 +167,18 @@ JavaScript, 0% воды
 <br><hr><br>
 
 
+#### RadioFlazm [site](http://flazm.ru/podcast), [itunes](https://itunes.apple.com/ru/podcast/radioflazm/id709222897)
+
+Подкаст про независимую разработку игр в небольших командах. Технологии, платформы, вопросы продвижения, условия работы.
+
+| Ведущие             | twitter                                    |
+| :------------------ | ------------------------------------------ |
+| Алексей Давыдов     | [twitter](https://twitter.com/flazm)       |
+
+
+<br><hr><br>
+
+
 #### uWebDesign [site](http://uwebdesign.ru/), [itunes](http://vk.cc/3yMhPk)
 
 Подкаст о веб-дизайне и веб-разработке.

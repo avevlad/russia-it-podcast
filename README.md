@@ -54,6 +54,21 @@ Old EaxCast, в основном про функциональное прогр�
 <br><hr><br>
 
 
+#### Frontflip [site](http://frontflip.me/), [itunes](http://vk.cc/2YIFuW)
+
+Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях
+
+
+| Ведущие             | github                                   | twitter                                    |
+| :------------------ | ---------------------------------------- | ------------------------------------------ |
+| Илья Заяц           | [github](https://github.com/somebody32)  | [twitter](https://twitter.com/23ydobemos)  |
+| Артем Сущев         | [github](https://github.com/H1D)         | [twitter](https://twitter.com/asuschev)    |
+
+
+
+<br><hr><br>
+
+
 #### RadioJS [site](http://radiojs.ru/), [itunes](https://itunes.apple.com/ru/podcast/radio-js/id904938655)
 
 Подкаст о веб-разработке, фронтенде и client-side.
@@ -137,19 +152,6 @@ JavaScript, 0% воды
 | :------------------ | ---------------------------------------- | ----------------------------------- |
 | Артем Гринберг      | [github](https://github.com/artsorax)    | [vk](http://vk.com/art.sorax)       |
 
-
-<br><hr><br>
-
-
-#### Frontflip [site](http://frontflip.me/), [itunes](http://vk.cc/2YIFuW)
-
-Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях
-
-
-| Ведущие             | github                                   | twitter                                    |
-| :------------------ | ---------------------------------------- | ------------------------------------------ |
-| Илья Заяц           | [github](https://github.com/somebody32)  | [twitter](https://twitter.com/23ydobemos)  |
-| Артем Сущев         | [github](https://github.com/H1D)         | [twitter](https://twitter.com/asuschev)    |
 
 
 <br><hr><br>

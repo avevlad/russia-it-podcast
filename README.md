@@ -18,6 +18,7 @@ Old EaxCast, в основном про функциональное прогр�
 | Александр Алексеев  | [github](https://github.com/afiskon)     | [twitter](https://twitter.com/afiskon)    |
 | Иван Глушков        | [github](https://github.com/gliush)      | [twitter](https://twitter.com/gliush)     |
 | Светлана Божко      | [github](https://github.com/sbozhko)     | [twitter](https://twitter.com/sbozhko)    |
+| Валерий Мелешкин    | [github](https://github.com/sumerman)    | [twitter](https://twitter.com/sum3rman)   |
 
 
 <br><hr><br>

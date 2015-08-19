@@ -29,11 +29,12 @@ Old EaxCast, в основном про функциональное прогр�
 Разговоры на темы хайтек, высоких компьютерных технологий, гаджетов, облаков, программирования и прочего интересного из мира ИТ.
 
 
-| Ведущие             | github                               | twitter                                 |
-| :------------------ | ------------------------------------ | --------------------------------------- |
-| Григорий Бакунов    | [github](https://github.com/bobuk)   | [twitter](https://twitter.com/bobuk)    |
-| Евгений Борт        | [github](https://github.com/umputun) | [twitter](https://twitter.com/umputun)  |
-| Сергей Петренко     | [github](https://github.com/grayru)  | [twitter](https://twitter.com/gray_ru)  |
+| Ведущие             | github                                 | twitter                                 |
+| :------------------ | -------------------------------------- | --------------------------------------- |
+| Григорий Бакунов    | [@bobuk](https://github.com/bobuk)     | [@bobuk](https://twitter.com/bobuk)     |
+| Евгений Борт        | [@umputun](https://github.com/umputun) | [@umputun](https://twitter.com/umputun) |
+| Сергей Петренко     | [@grayru](https://github.com/grayru)   | [@gray_ru](https://twitter.com/gray_ru) |
+| Ксения              | [@ksenks](https://github.com/ksenks)   | [@ksenks](https://twitter.com/ksenks)   |
 
 
 <br><hr><br>

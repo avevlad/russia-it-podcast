@@ -192,9 +192,9 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
-#### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7)
+#### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7), [facebook](http://facebook.com/radioqa), [vk](http://vk.com/radioqa),[twitter](http://twitter.com/radio_qa)
 
-Подкаст не только о тестировании.
+Подкаст не только о тестировании, выходит раз в две недели 
 
 | Ведущие             | blog                                          |
 | :------------------ | ------------------------------------------    |

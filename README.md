@@ -192,10 +192,23 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
-#### Solo on .NET [podfm](https://spbaltnet.podfm.ru/solo/), [itunes] (https://itunes.apple.com/de/podcast/solo-on-.net/id730081104?mt=2)
+#### Solo on .NET [podfm](https://spbaltnet.podfm.ru/solo/), [itunes](https://itunes.apple.com/de/podcast/solo-on-.net/id730081104?mt=2)
 
 Подкаст про разработку программного обеспечения (программирование). Обсуждаемые темы - C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA и многое другое.
 
 | Ведущие             | twitter                                  | github                                   |
 | :------------------ | ---------------------------------------- | ---------------------------------------- |
 | Дмитрий Нестерук    | [twitter](https://twitter.com/dnesteruk) | [github](https://github.com/nesteruk)    |
+
+
+<br><hr><br>
+
+
+#### CTOcast [site](http://ctocast.com/), [itunes](https://itunes.apple.com/ru/podcast/ctocast/id945496997), [rss](http://feeds.feedburner.com/CTOcast)
+
+Подкаст о технологиях, процессах, инфраструктуре и людях в IT-компаниях.
+
+| Ведущие                 | 
+| :---------------------- | 
+| Александра Астапенко    | 
+| Павел Павлов            |

@@ -15,10 +15,10 @@ Old EaxCast, в основном про функциональное прогр�
 
 | Ведущие             | github                                   | twitter                                   |
 | :------------------ | ---------------------------------------- | ----------------------------------------- |
-| Александр Алексеев  | [github](https://github.com/afiskon)     | [twitter](https://twitter.com/afiskon)    |
-| Иван Глушков        | [github](https://github.com/gliush)      | [twitter](https://twitter.com/gliush)     |
-| Светлана Божко      | [github](https://github.com/sbozhko)     | [twitter](https://twitter.com/sbozhko)    |
-| Валерий Мелешкин    | [github](https://github.com/sumerman)    | [twitter](https://twitter.com/sum3rman)   |
+| Александр Алексеев  | [@afiskon](https://github.com/afiskon)   | [@afiskon](https://twitter.com/afiskon)   |
+| Иван Глушков        | [@gliush](https://github.com/gliush)     | [@gliush](https://twitter.com/gliush)     |
+| Светлана Божко      | [@SBozhko](https://github.com/sbozhko)   | [@SBozhko](https://twitter.com/sbozhko)   |
+| Валерий Мелешкин    | [@sumerman](https://github.com/sumerman) | [sum3rman](https://twitter.com/sum3rman)  |
 
 
 <br><hr><br>
@@ -210,5 +210,5 @@ JavaScript, 0% воды
 
 | Ведущие                 | 
 | :---------------------- | 
-| Александра Астапенко    | 
+| Александр Астапенко     | 
 | Павел Павлов            |

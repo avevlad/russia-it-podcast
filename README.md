@@ -81,14 +81,20 @@ RubyNoName подкаст — это русскоязычный подкаст �
 <br><hr><br>
 
 
-#### Разбор Полетов [site](http://razbor-poletov.com/), [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G)
+#### Разбор Полетов (#razborpoletov): [site](http://razbor-poletov.com/), [fan site](http://pilots.razbor-poletov.com/#/),  [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G), [g+](https://plus.google.com/+Razbor-poletov/about), [facebook](https://www.facebook.com/razborPoletovPodcast).
 
-Болтологический подкаст о технологиях и разработке программного обеспечения
+ Подкаст о технологиях и разработке программного обеспечения.
 
 | Ведущие             | github                                   | twitter                                   |
 | :------------------ | ---------------------------------------- | ----------------------------------------- |
 | Виктор Гамов        | [github](https://github.com/gAmUssA)     | [twitter](https://twitter.com/gAmUssA)    |
 | Алексей Абашев      | [github](https://github.com/abashev)     | [twitter](https://twitter.com/a_abashev)  |
+| Антон Архипов       | [github](https://github.com/antonarhipov)| [twitter](https://twitter.com/antonarhipov)|
+| Кирилл Толкачёв     | [github](https://github.com/tolkv)       | [twitter](https://twitter.com/lavcraft)   |
+| Дмитрий Чурбанов    | [github](https://github.com/dzmitryc)    | [twitter](https://twitter.com/dzmitryc)   |
+| Антон Черноусов     | [github](https://github.com/golodnyj)    | [twitter](https://twitter.com/golodnyj)   |
+| Барух Садогурский   | [github](https://github.com/jbaruch)     | [twitter](https://twitter.com/jbaruch)    |
+
 
 
 <br><hr><br>

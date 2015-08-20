@@ -78,7 +78,7 @@ Old EaxCast, в основном про функциональное прогр�
 | :------------------ | -------------------------------------------- | ----------------------------------------------- |
 | Миша Башкиров       | [@bashmish](https://github.com/bashmish)     | [@bashmish](https://twitter.com/bashmish)       |
 | Константин Буркалев | [@KSDaemon](https://github.com/KSDaemon)     | [@KSDaemon](https://twitter.com/KSDaemon)       |
-| Андрей Саломатин    | [@filipovsky](https://github.com/filipovsky) | [@filipovskii](https://twitter.com/filipovskii) |
+| Андрей Саломатин    | [@filipovskii](https://github.com/filipovskii) | [@filipovskii](https://twitter.com/filipovskii) |
 
 
 <br><hr><br>

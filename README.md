@@ -224,9 +224,9 @@ JavaScript, 0% воды
 
 Подкаст про разработку программного обеспечения (программирование). Обсуждаемые темы - C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA и многое другое.
 
-| Ведущие             | twitter                                     | github                                 |
-| :------------------ | ------------------------------------------- | ---------------------------------------|
-| Дмитрий Нестерук    | [@dnesteruk](https://twitter.com/dnesteruk) | [github](https://github.com/@nesteruk) |
+| Ведущие             | twitter                                     | github                                   |
+| :------------------ | ------------------------------------------- | ---------------------------------------- |
+| Дмитрий Нестерук    | [@dnesteruk](https://twitter.com/dnesteruk) | [@nesteruk](https://github.com/nesteruk) |
 
 
 <br><hr><br>

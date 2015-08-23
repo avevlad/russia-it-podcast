@@ -161,10 +161,10 @@ JavaScript, 0% воды
 
 Подкаст о создании игр.
 
-| Ведущие             | twitter                                    |
-| :------------------ | ------------------------------------------ |
-| Сергей Галёнкин     | [twitter](https://twitter.com/galyonkin)   |
-| Михаил Кузьмин      | [twitter](https://twitter.com/kuzmitch_ru) |
+| Ведущие             | twitter                                         |
+| :------------------ | ----------------------------------------------- |
+| Сергей Галёнкин     | [@galyonkin](https://twitter.com/galyonkin)     |
+| Михаил Кузьмин      | [@kuzmitch_ru](https://twitter.com/kuzmitch_ru) |
 
 
 <br><hr><br>

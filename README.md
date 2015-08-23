@@ -74,10 +74,10 @@ Old EaxCast, в основном про функциональное прогр�
 Подкаст о веб-разработке, фронтенде и client-side.
 
 
-| Ведущие             | github                                       | twitter                                         |
-| :------------------ | -------------------------------------------- | ----------------------------------------------- |
-| Миша Башкиров       | [@bashmish](https://github.com/bashmish)     | [@bashmish](https://twitter.com/bashmish)       |
-| Константин Буркалев | [@KSDaemon](https://github.com/KSDaemon)     | [@KSDaemon](https://twitter.com/KSDaemon)       |
+| Ведущие             | github                                         | twitter                                         |
+| :------------------ | ---------------------------------------------- | ----------------------------------------------- |
+| Миша Башкиров       | [@bashmish](https://github.com/bashmish)       | [@bashmish](https://twitter.com/bashmish)       |
+| Константин Буркалев | [@KSDaemon](https://github.com/KSDaemon)       | [@KSDaemon](https://twitter.com/KSDaemon)       |
 | Андрей Саломатин    | [@filipovskii](https://github.com/filipovskii) | [@filipovskii](https://twitter.com/filipovskii) |
 
 

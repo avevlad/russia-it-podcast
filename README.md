@@ -59,10 +59,10 @@ Old EaxCast, в основном про функциональное прогр�
 Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях
 
 
-| Ведущие             | github                                   | twitter                                    |
-| :------------------ | ---------------------------------------- | ------------------------------------------ |
-| Илья Заяц           | [github](https://github.com/somebody32)  | [twitter](https://twitter.com/23ydobemos)  |
-| Артем Сущев         | [github](https://github.com/H1D)         | [twitter](https://twitter.com/asuschev)    |
+| Ведущие     | github                                       | twitter                                       |
+| :---------- | -------------------------------------------- | --------------------------------------------- |
+| Илья Заяц   | [@somebody32](https://github.com/somebody32) | [@23ydobemos](https://twitter.com/23ydobemos) |
+| Артем Сущев | [@H1D](https://github.com/H1D)               | [@asuschev](https://twitter.com/asuschev)     |
 
 
 

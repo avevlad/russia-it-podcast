@@ -176,7 +176,7 @@ JavaScript, 0% воды
 
 | Ведущие             | twitter                                    |
 | :------------------ | ------------------------------------------ |
-| Алексей Давыдов     | [twitter](https://twitter.com/flazm)       |
+| Алексей Давыдов     | [@flazm](https://twitter.com/flazm)        |
 
 
 <br><hr><br>
@@ -188,7 +188,7 @@ JavaScript, 0% воды
 
 | Ведущие             | twitter                                    |
 | :------------------ | ------------------------------------------ |
-| Александр Гончаров  | [twitter](https://twitter.com/websanya)    |
+| Александр Гончаров  | [@websanya](https://twitter.com/websanya)  |
 
 <br><hr><br>
 
@@ -224,9 +224,9 @@ JavaScript, 0% воды
 
 Подкаст про разработку программного обеспечения (программирование). Обсуждаемые темы - C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA и многое другое.
 
-| Ведущие             | twitter                                  | github                                   |
-| :------------------ | ---------------------------------------- | ---------------------------------------- |
-| Дмитрий Нестерук    | [twitter](https://twitter.com/dnesteruk) | [github](https://github.com/nesteruk)    |
+| Ведущие             | twitter                                     | github                                 |
+| :------------------ | ------------------------------------------- | ---------------------------------------|
+| Дмитрий Нестерук    | [@dnesteruk](https://twitter.com/dnesteruk) | [github](https://github.com/@nesteruk) |
 
 
 <br><hr><br>

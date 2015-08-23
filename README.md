@@ -115,10 +115,10 @@ RubyNoName подкаст — это русскоязычный подкаст �
 
 Подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле).
 
-| Ведущие             | github                                   | twitter                                   |
-| :------------------ | ---------------------------------------- | ----------------------------------------- |
-| Алексей Васильев    | [github](https://github.com/le0pard/)    | [twitter](https://twitter.com/leopard_me) |
-| Александр Чаплинский| [github](https://github.com/alchapone)   | [twitter](https://twitter.com/a1chapone)  |
+| Ведущие             | github                                     | twitter                                       |
+| :------------------ | ------------------------------------------ | --------------------------------------------- |
+| Алексей Васильев    | [@le0pard](https://github.com/le0pard/)    | [@leopard_me](https://twitter.com/leopard_me) |
+| Александр Чаплинский| [@alchapone](https://github.com/alchapone) | [@a1chapone](https://twitter.com/a1chapone)   |
 
 
 <br><hr><br>
@@ -128,15 +128,15 @@ RubyNoName подкаст — это русскоязычный подкаст �
 
  Подкаст о технологиях и разработке программного обеспечения.
 
-| Ведущие             | github                                   | twitter                                   |
-| :------------------ | ---------------------------------------- | ----------------------------------------- |
-| Виктор Гамов        | [github](https://github.com/gAmUssA)     | [twitter](https://twitter.com/gAmUssA)    |
-| Алексей Абашев      | [github](https://github.com/abashev)     | [twitter](https://twitter.com/a_abashev)  |
-| Антон Архипов       | [github](https://github.com/antonarhipov)| [twitter](https://twitter.com/antonarhipov)|
-| Кирилл Толкачёв     | [github](https://github.com/tolkv)       | [twitter](https://twitter.com/lavcraft)   |
-| Дмитрий Чурбанов    | [github](https://github.com/dzmitryc)    | [twitter](https://twitter.com/dzmitryc)   |
-| Антон Черноусов     | [github](https://github.com/golodnyj)    | [twitter](https://twitter.com/golodnyj)   |
-| Барух Садогурский   | [github](https://github.com/jbaruch)     | [twitter](https://twitter.com/jbaruch)    |
+| Ведущие             | github                                           | twitter                                           |
+| :------------------ | ------------------------------------------------ | ------------------------------------------------- |
+| Виктор Гамов        | [@gAmUssA](https://github.com/gAmUssA)           | [@gAmUssA](https://twitter.com/gAmUssA)           |
+| Алексей Абашев      | [@abashev](https://github.com/abashev)           | [@a_abashev](https://twitter.com/a_abashev)       |
+| Антон Архипов       | [@antonarhipov](https://github.com/antonarhipov) | [@antonarhipov](https://twitter.com/antonarhipov) |
+| Кирилл Толкачёв     | [@tolkv](https://github.com/tolkv)               | [@lavcraft](https://twitter.com/lavcraft)         |
+| Дмитрий Чурбанов    | [@dzmitryc](https://github.com/dzmitryc)         | [@dzmitryc](https://twitter.com/dzmitryc)         |
+| Антон Черноусов     | [@golodnyj](https://github.com/golodnyj)         | [@golodnyj](https://twitter.com/golodnyj)         |
+| Барух Садогурский   | [@jbaruch](https://github.com/jbaruch)           | [@jbaruch](https://twitter.com/jbaruch)           |
 
 
 

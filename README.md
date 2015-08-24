@@ -240,3 +240,18 @@ JavaScript, 0% воды
 | :---------------------- | 
 | Александр Астапенко     | 
 | Павел Павлов            |
+
+
+<br><hr><br>
+
+
+#### GolangShow (@GolangShow, #GolangShow): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
+
+Русскоязычный подкаст о Go.
+
+| Ведущие             | twitter                                     | github                                   |
+| :------------------ | ------------------------------------------- | ---------------------------------------- |
+| Артём Андреенко     | [@miolini](https://twitter.com/miolini)     | [@nesteruk](https://github.com/miolini)  |
+| Алексей Палажченко  | [@paaleksey](https://twitter.com/paaleksey) | [@AlekSi](https://github.com/AlekSi)     |
+| Слава Бахмутов      | [@m0sth8](https://twitter.com/m0sth8)       | [@m0sth8](https://github.com/m0sth8)     |
+| Иван Данилюк        | [@idanyliuk](https://twitter.com/idanyliuk) | [@divan](https://github.com/divan)       |

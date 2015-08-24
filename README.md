@@ -251,7 +251,7 @@ JavaScript, 0% воды
 
 | Ведущие             | twitter                                     | github                                   |
 | :------------------ | ------------------------------------------- | ---------------------------------------- |
-| Артём Андреенко     | [@miolini](https://twitter.com/miolini)     | [@nesteruk](https://github.com/miolini)  |
+| Артём Андреенко     | [@miolini](https://twitter.com/miolini)     | [@miolini](https://github.com/miolini)  |
 | Алексей Палажченко  | [@paaleksey](https://twitter.com/paaleksey) | [@AlekSi](https://github.com/AlekSi)     |
 | Слава Бахмутов      | [@m0sth8](https://twitter.com/m0sth8)       | [@m0sth8](https://github.com/m0sth8)     |
 | Иван Данилюк        | [@idanyliuk](https://twitter.com/idanyliuk) | [@divan](https://github.com/divan)       |

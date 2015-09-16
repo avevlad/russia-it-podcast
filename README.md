@@ -266,5 +266,5 @@ JavaScript, 0% воды
 | :-------------- | -------------------------------------------- | ----------------------------------------- |
 | Роман Чепляка   | [@feuerbach](https://github.com/feuerbach)   | [@shebang](https://twitter.com/shebang)   |
 | Денис Редозубов | [@dredozubov](https://github.com/dredozubov) | [@rufuse](https://twitter.com/rufuse)     |
-| Денис Шевченко  | [@denisshevchenko](https://github.com/denisshevchenko) | [@dshevchenko.biz](https://twitter.com/dshevchenko_biz)   |
+| Денис Шевченко  | [@denisshevchenko](https://github.com/denisshevchenko) | [@dshevchenko_biz](https://twitter.com/dshevchenko_biz)   |
 

@@ -255,3 +255,16 @@ JavaScript, 0% воды
 | Алексей Палажченко  | [@paaleksey](https://twitter.com/paaleksey) | [@AlekSi](https://github.com/AlekSi)     |
 | Слава Бахмутов      | [@m0sth8](https://twitter.com/m0sth8)       | [@m0sth8](https://github.com/m0sth8)     |
 | Иван Данилюк        | [@idanyliuk](https://twitter.com/idanyliuk) | [@divan](https://github.com/divan)       |
+
+<br><hr><br>
+
+#### Бананы и Линзы [site](http://ruhaskell.org/categories/cast.html), [itunes](https://itunes.apple.com/ru/podcast/banany-i-linzy/id1037879859)
+
+Русскоязычный подкаст о Haskell и обо всём вокруг него.
+
+| Ведущие         | github                                       | twitter                                   |
+| :-------------- | -------------------------------------------- | ----------------------------------------- |
+| Роман Чепляка   | [@feuerbach](https://github.com/feuerbach)   | [@shebang](https://twitter.com/shebang)   |
+| Денис Редозубов | [@dredozubov](https://github.com/dredozubov) | [@rufuse](https://twitter.com/rufuse)     |
+| Денис Шевченко  | [@denisshevchenko](https://github.com/denisshevchenko) | [@dshevchenko.biz](https://twitter.com/dshevchenko_biz)   |
+

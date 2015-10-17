@@ -40,6 +40,21 @@ Old EaxCast, в основном про функциональное прогр�
 <br><hr><br>
 
 
+#### GolangShow (@GolangShow, #GolangShow): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
+
+Русскоязычный подкаст о Go.
+
+| Ведущие             | twitter                                     | github                                   |
+| :------------------ | ------------------------------------------- | ---------------------------------------- |
+| Артём Андреенко     | [@miolini](https://twitter.com/miolini)     | [@miolini](https://github.com/miolini)  |
+| Алексей Палажченко  | [@paaleksey](https://twitter.com/paaleksey) | [@AlekSi](https://github.com/AlekSi)     |
+| Слава Бахмутов      | [@m0sth8](https://twitter.com/m0sth8)       | [@m0sth8](https://github.com/m0sth8)     |
+| Иван Данилюк        | [@idanyliuk](https://twitter.com/idanyliuk) | [@divan](https://github.com/divan)       |
+
+
+<br><hr><br>
+
+
 #### EaxCast [site](http://eax.me/tag/podcast/), [itunes](http://vk.cc/2YIFhh)
 
 Подкаст делает особый акцент на "не мейнстримовых" технологиях, таких, как функциональное программирование и NoSQL базы данных. Впрочем, тематика не ограничивается исключительно этими вопросами. Подкаст публикуется эпизодами по 40-45 минут каждые две недели.
@@ -241,20 +256,6 @@ JavaScript, 0% воды
 | Александр Астапенко     | 
 | Павел Павлов            |
 
-
-<br><hr><br>
-
-
-#### GolangShow (@GolangShow, #GolangShow): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
-
-Русскоязычный подкаст о Go.
-
-| Ведущие             | twitter                                     | github                                   |
-| :------------------ | ------------------------------------------- | ---------------------------------------- |
-| Артём Андреенко     | [@miolini](https://twitter.com/miolini)     | [@miolini](https://github.com/miolini)  |
-| Алексей Палажченко  | [@paaleksey](https://twitter.com/paaleksey) | [@AlekSi](https://github.com/AlekSi)     |
-| Слава Бахмутов      | [@m0sth8](https://twitter.com/m0sth8)       | [@m0sth8](https://github.com/m0sth8)     |
-| Иван Данилюк        | [@idanyliuk](https://twitter.com/idanyliuk) | [@divan](https://github.com/divan)       |
 
 <br><hr><br>
 

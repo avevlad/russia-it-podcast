@@ -259,7 +259,7 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
-#### Бананы и Линзы [site](http://ruhaskell.org/categories/cast.html), [itunes](https://itunes.apple.com/ru/podcast/banany-i-linzy/id1037879859)
+#### Бананы и Линзы [site](http://bananasandlenses.net/), [itunes](https://itunes.apple.com/ru/podcast/banany-i-linzy/id1037879859)
 
 Русскоязычный подкаст о Haskell и обо всём вокруг него.
 

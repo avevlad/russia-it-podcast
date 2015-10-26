@@ -8,9 +8,9 @@ russia-it-podcast
 
 
 
-#### DevZen [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
+#### DevZen (#DevZen) [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
 
-Old EaxCast, в основном про функциональное программирование. (на самом деле нет)
+Old EaxCast, в основном про функциональное программирование (на самом деле нет)
 
 
 | Ведущие             | github                                   | twitter                                   |
@@ -18,7 +18,7 @@ Old EaxCast, в основном про функциональное прогр�
 | Александр Алексеев  | [@afiskon](https://github.com/afiskon)   | [@afiskon](https://twitter.com/afiskon)   |
 | Иван Глушков        | [@gliush](https://github.com/gliush)     | [@gliush](https://twitter.com/gliush)     |
 | Светлана Божко      | [@SBozhko](https://github.com/sbozhko)   | [@SBozhko](https://twitter.com/sbozhko)   |
-| Валерий Мелешкин    | [@sumerman](https://github.com/sumerman) | [sum3rman](https://twitter.com/sum3rman)  |
+| Валерий Мелешкин    | [@sumerman](https://github.com/sumerman) | [@sum3rman](https://twitter.com/sum3rman)  |
 
 
 <br><hr><br>

@@ -54,6 +54,19 @@ Old EaxCast, в основном про функциональное прогр�
 
 <br><hr><br>
 
+#### Бананы и Линзы [site](http://bananasandlenses.net/), [itunes](https://itunes.apple.com/ru/podcast/banany-i-linzy/id1037879859)
+
+Русскоязычный подкаст о Haskell и обо всём вокруг него.
+
+| Ведущие         | github                                       | twitter                                   |
+| :-------------- | -------------------------------------------- | ----------------------------------------- |
+| Роман Чепляка   | [@feuerbach](https://github.com/feuerbach)   | [@shebang](https://twitter.com/shebang)   |
+| Денис Редозубов | [@dredozubov](https://github.com/dredozubov) | [@rufuse](https://twitter.com/rufuse)     |
+| Денис Шевченко  | [@denisshevchenko](https://github.com/denisshevchenko) | [@dshevchenko_biz](https://twitter.com/dshevchenko_biz)   |
+
+
+<br><hr><br>
+
 
 #### EaxCast [site](http://eax.me/tag/podcast/), [itunes](http://vk.cc/2YIFhh)
 
@@ -107,20 +120,6 @@ Old EaxCast, в основном про функциональное прогр�
 | Ведущие             | github                                       | twitter                                         |
 | :------------------ | -------------------------------------------- | ----------------------------------------------- |
 | Константин Буркалев | [@KSDaemon](https://github.com/KSDaemon)     | [@KSDaemon](https://twitter.com/KSDaemon)       |
-
-
-<br><hr><br>
-
-
-#### RubyNoName [site](http://rubynoname.ru/), [itunes](http://vk.cc/2YIEAY)
-
-RubyNoName подкаст — это русскоязычный подкаст о языке Ruby и всем, что с ним связано, будь то веб-фреймворк Rails, Sinatra, очереди сообщений, базы данных или даже системы управления конфигурацией Chef или Puppet.
-
-
-| Ведущие             | github                                     | twitter                                     |
-| :------------------ | ------------------------------------------ | ------------------------------------------- |
-| Андрей Дерябин      | [@aderyabin](https://github.com/aderyabin) | [@aderyabin](https://twitter.com/aderyabin) |
-| Кир Шатров          | [@kirs](https://github.com/kirs)           | [@twitter](https://twitter.com/kirs)        |
 
 
 <br><hr><br>
@@ -196,17 +195,6 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
-
-#### uWebDesign [site](http://uwebdesign.ru/), [itunes](http://vk.cc/3yMhPk)
-
-Подкаст о веб-дизайне и веб-разработке.
-
-| Ведущие             | twitter                                    |
-| :------------------ | ------------------------------------------ |
-| Александр Гончаров  | [@websanya](https://twitter.com/websanya)  |
-
-<br><hr><br>
-
 #### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7), [facebook](http://facebook.com/radioqa), [vk](http://vk.com/radioqa),[twitter](http://twitter.com/radio_qa)
 
 Подкаст не только о тестировании, выходит раз в две недели 
@@ -259,13 +247,25 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
-#### Бананы и Линзы [site](http://bananasandlenses.net/), [itunes](https://itunes.apple.com/ru/podcast/banany-i-linzy/id1037879859)
 
-Русскоязычный подкаст о Haskell и обо всём вокруг него.
+#### RubyNoName [site](http://rubynoname.ru/), [itunes](http://vk.cc/2YIEAY)
 
-| Ведущие         | github                                       | twitter                                   |
-| :-------------- | -------------------------------------------- | ----------------------------------------- |
-| Роман Чепляка   | [@feuerbach](https://github.com/feuerbach)   | [@shebang](https://twitter.com/shebang)   |
-| Денис Редозубов | [@dredozubov](https://github.com/dredozubov) | [@rufuse](https://twitter.com/rufuse)     |
-| Денис Шевченко  | [@denisshevchenko](https://github.com/denisshevchenko) | [@dshevchenko_biz](https://twitter.com/dshevchenko_biz)   |
+RubyNoName подкаст — это русскоязычный подкаст о языке Ruby и всем, что с ним связано, будь то веб-фреймворк Rails, Sinatra, очереди сообщений, базы данных или даже системы управления конфигурацией Chef или Puppet.
 
+
+| Ведущие             | github                                     | twitter                                     |
+| :------------------ | ------------------------------------------ | ------------------------------------------- |
+| Андрей Дерябин      | [@aderyabin](https://github.com/aderyabin) | [@aderyabin](https://twitter.com/aderyabin) |
+| Кир Шатров          | [@kirs](https://github.com/kirs)           | [@twitter](https://twitter.com/kirs)        |
+
+
+<br><hr><br>
+
+
+#### uWebDesign [site](http://uwebdesign.ru/), [itunes](http://vk.cc/3yMhPk)
+
+Подкаст о веб-дизайне и веб-разработке.
+
+| Ведущие             | twitter                                    |
+| :------------------ | ------------------------------------------ |
+| Александр Гончаров  | [@websanya](https://twitter.com/websanya)  |

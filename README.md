@@ -195,7 +195,7 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
-#### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7), [facebook](http://facebook.com/radioqa), [vk](http://vk.com/radioqa),[twitter](http://twitter.com/radio_qa)
+#### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7), [facebook](http://facebook.com/radioqa), [vk](http://vk.com/radioqa), [twitter](http://twitter.com/radio_qa)
 
 Подкаст не только о тестировании, выходит раз в две недели 
 
@@ -270,3 +270,32 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | :----------------- | ---------------------------------------- | ---------------------------------------------------- |
 | Александр Гончаров | [@websanya](https://github.com/websanya) | [@websanya](https://twitter.com/websanya)            |
 | Никита Тарасов     |                                          | [@justElementar](https://twitter.com/justElementar)  |
+
+
+<br><hr><br>
+
+
+#### DevOps Дефлопе [site](http://devopsdeflope.ru/), [itunes](https://itunes.apple.com/ru/podcast/devops-deflope-podkast/id670175970), [rss](http://feeds.feedburner.com/devopsdeflope), [twitter](https://twitter.com/devopsdeflope)
+
+Русскоязычный подкаст о DevOps.
+
+| Ведущие            | github                                   | twitter                                              |
+| :----------------- | ---------------------------------------- | ---------------------------------------------------- |
+| Никита Борзых      |                                          | [@ex_sample](https://twitter.com/ex_sample)          |
+| Иван Евтухович     |                                          |                                                      |
+
+
+<br><hr><br>
+
+
+#### Hangops Ru [site](http://hangops.ru/), [rss](http://hangops.ru/rss/)
+
+Регулярные интернет-посиделки DevOps инженеров и сочувствующих им людей.
+
+
+<br><hr><br>
+
+
+#### Drupal-подкасты [site](http://podcasts.dru.io/), [rss](http://podcasts.dru.io/rss.xml), [twitter](https://twitter.com/drupalpod)
+
+Чем мы тут занимаемся? Мы разговариваем о Drupal, делимся опытом в веб-разработке и просто общаемся как старые друзья и знакомые (как правило — так оно и есть). Эта CMS во многом влияет на нашу работу, наше хобби, наши социальные проекты. Понятно, что нам интересно все, связанное с Drupal.

@@ -287,6 +287,12 @@ RubyNoName подкаст — это русскоязычный подкаст �
 
 <br><hr><br>
 
+#### Пятиминутка PHP [site](http://5minphp.ru), [itunes](https://itunes.apple.com/ru/podcast/patiminutka-php/id996423650), [rss](http://feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss), [twitter](https://twitter.com/5minphp)
+
+Еженедельный подкаст о новостях из мира PHP, интересных постах в блогах и современных подходах к разработке
+
+<br><hr><br>
+
 
 #### Hangops Ru [site](http://hangops.ru/), [rss](http://hangops.ru/rss/)
 

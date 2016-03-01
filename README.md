@@ -334,4 +334,4 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | :------------------ | ------------------------------------------------ | ------------------------------------------------- |
 | Вадим Макеев        | [@pepelsbey](https://github.com/pepelsbey/)      | [@pepelsbey](https://twitter.com/pepelsbey)       |
 | Алексей Симоненко   | [@meritt](https://github.com/meritt)             | [@simonenko](https://twitter.com/simonenko)       |
-| Ольга Алексашенко   | [@tachisis](https://github.com/tachisis/)        | [@tachisis](https://twitter.com/pepelsbey)       |
+| Ольга Алексашенко   | [@tachisis](https://github.com/tachisis/)        | [@tachisis](https://twitter.com/tachisis)         |

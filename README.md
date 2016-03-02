@@ -321,3 +321,19 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Ведущие             | github                                           | twitter                                           |
 | :------------------ | ------------------------------------------------ | ------------------------------------------------- |
 | Антон Черноусов     | [@golodnyj](https://github.com/golodnyj)         | [@golodnyj](https://twitter.com/golodnyj)         |
+
+
+<br><hr><br>
+
+
+#### LinkMeUp [site](http://linkmeup.ru/), [itunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951), [rss](http://linkmeup.ru/rss/podcasts), [twitter](https://twitter.com/linkmeupru)
+
+Разговаривают на темы сферы телекоммуникаций, средств и сетей связи.
+
+| Ведущие             | twitter                                     | habrahabr                                          |
+| :------------------ | ------------------------------------------- | -------------------------------------------------- |
+| Марат aka eucariot  | [@ieucariot](https://twitter.com/ieucariot) | [@eucariot](https://habrahabr.ru/users/eucariot/)  |
+| Максим aka gluck    |                                             | [@thegluck](https://habrahabr.ru/users/thegluck/)  |
+| Наталья Пуртова     |                                             |                                                    |
+| Александр Фатин     |                                             |                                                    |
+

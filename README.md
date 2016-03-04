@@ -321,3 +321,17 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Ведущие             | github                                           | twitter                                           |
 | :------------------ | ------------------------------------------------ | ------------------------------------------------- |
 | Антон Черноусов     | [@golodnyj](https://github.com/golodnyj)         | [@golodnyj](https://twitter.com/golodnyj)         |
+
+
+<br><hr><br>
+
+
+#### Веб-стандарты [SoundCloud](https://soundcloud.com/web-standards), [rss](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss), [itunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) 
+
+Подкаст сообщества «Веб-стандарты» с новостями фронтенда за минувшую неделю.
+
+| Ведущие             | github                                           | twitter                                           |
+| :------------------ | ------------------------------------------------ | ------------------------------------------------- |
+| Вадим Макеев        | [@pepelsbey](https://github.com/pepelsbey/)      | [@pepelsbey](https://twitter.com/pepelsbey)       |
+| Алексей Симоненко   | [@meritt](https://github.com/meritt)             | [@simonenko](https://twitter.com/simonenko)       |
+| Ольга Алексашенко   | [@tachisis](https://github.com/tachisis/)        | [@tachisis](https://twitter.com/tachisis)         |

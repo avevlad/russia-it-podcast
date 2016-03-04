@@ -49,7 +49,8 @@ Old EaxCast, в основном про функциональное прогр�
 | Артём Андреенко     | [@miolini](https://twitter.com/miolini)     | [@miolini](https://github.com/miolini)  |
 | Алексей Палажченко  | [@paaleksey](https://twitter.com/paaleksey) | [@AlekSi](https://github.com/AlekSi)     |
 | Слава Бахмутов      | [@m0sth8](https://twitter.com/m0sth8)       | [@m0sth8](https://github.com/m0sth8)     |
-| Иван Данилюк        | [@idanyliuk](https://twitter.com/idanyliuk) | [@divan](https://github.com/divan)       |
+| Александр Морозов   | [@lk4d4math](https://twitter.com/LK4D4math) | [@lk4d4](https://github.com/lk4d4)       |
+| Елена Граховац      | [@webdeva](https://twitter.com/webdeva)     | [@rumyantseva](https://github.com/rumyantseva) |
 
 
 <br><hr><br>

@@ -49,7 +49,8 @@ Old EaxCast, в основном про функциональное прогр�
 | Артём Андреенко     | [@miolini](https://twitter.com/miolini)     | [@miolini](https://github.com/miolini)  |
 | Алексей Палажченко  | [@paaleksey](https://twitter.com/paaleksey) | [@AlekSi](https://github.com/AlekSi)     |
 | Слава Бахмутов      | [@m0sth8](https://twitter.com/m0sth8)       | [@m0sth8](https://github.com/m0sth8)     |
-| Иван Данилюк        | [@idanyliuk](https://twitter.com/idanyliuk) | [@divan](https://github.com/divan)       |
+| Александр Морозов   | [@lk4d4math](https://twitter.com/LK4D4math) | [@lk4d4](https://github.com/lk4d4)       |
+| Елена Граховац      | [@webdeva](https://twitter.com/webdeva)     | [@rumyantseva](https://github.com/rumyantseva) |
 
 
 <br><hr><br>
@@ -349,4 +350,18 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | :------------------- | ------------------------------------------------- |
 | Евгений Климов       |                                                   |
 | Екатерина Старостина | [@cyberstarcat](https://twitter.com/cyberstarcat) |
+
+
+<br><hr><br>
+
+
+#### Веб-стандарты [SoundCloud](https://soundcloud.com/web-standards), [rss](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss), [itunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) 
+
+Подкаст сообщества «Веб-стандарты» с новостями фронтенда за минувшую неделю.
+
+| Ведущие             | github                                           | twitter                                           |
+| :------------------ | ------------------------------------------------ | ------------------------------------------------- |
+| Вадим Макеев        | [@pepelsbey](https://github.com/pepelsbey/)      | [@pepelsbey](https://twitter.com/pepelsbey)       |
+| Алексей Симоненко   | [@meritt](https://github.com/meritt)             | [@simonenko](https://twitter.com/simonenko)       |
+| Ольга Алексашенко   | [@tachisis](https://github.com/tachisis/)        | [@tachisis](https://twitter.com/tachisis)         |
 

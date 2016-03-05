@@ -336,3 +336,11 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Вадим Макеев        | [@pepelsbey](https://github.com/pepelsbey/)      | [@pepelsbey](https://twitter.com/pepelsbey)       |
 | Алексей Симоненко   | [@meritt](https://github.com/meritt)             | [@simonenko](https://twitter.com/simonenko)       |
 | Ольга Алексашенко   | [@tachisis](https://github.com/tachisis/)        | [@tachisis](https://twitter.com/tachisis)         |
+
+
+<br><hr><br>
+
+
+#### Апперитив [site](http://apptractor.ru/podkastyi-apptractor), [rss](http://apptractor.ru/Podcast/rss.xml)
+
+Каждую неделю мы обсуждаем самые значительные события мобильного рынка, самые интересные новости о разработке и маркетинге, лучшие мобильные приложения и бизнес-практики в нашем подкасте.

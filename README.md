@@ -315,6 +315,34 @@ RubyNoName подкаст — это русскоязычный подкаст �
 <br><hr><br>
 
 
+#### LinkMeUp [site](http://linkmeup.ru/), [itunes](https://itunes.apple.com/ru/podcast/linkmeup.-pervyj-podkast-dla/id1065445951), [rss](http://linkmeup.ru/rss/podcasts), [twitter](https://twitter.com/linkmeupru)
+
+Разговаривают на темы сферы телекоммуникаций, средств и сетей связи.
+
+| Ведущие             | twitter                                     | habrahabr                                          |
+| :------------------ | ------------------------------------------- | -------------------------------------------------- |
+| Марат aka eucariot  | [@ieucariot](https://twitter.com/ieucariot) | [@eucariot](https://habrahabr.ru/users/eucariot/)  |
+| Максим aka gluck    |                                             | [@thegluck](https://habrahabr.ru/users/thegluck/)  |
+| Наталья Пуртова     |                                             |                                                    |
+| Александр Фатин     |                                             |                                                    |
+
+
+<br><hr><br>
+
+
+#### Диалоги #поИБэ [site](http://www.risspa.ru/podcast), [itunes](https://itunes.apple.com/ru/podcast/dialogi-poibe/id869831341), [rss](http://podster.fm/rss.xml?pid=14092)
+
+Подкаст о высоких технологиях и кибербезопасности. Проект популяризации темы информационной безопасности в РФ.
+
+| Ведущие              | twitter                                           |
+| :------------------- | ------------------------------------------------- |
+| Евгений Климов       |                                                   |
+| Екатерина Старостина | [@cyberstarcat](https://twitter.com/cyberstarcat) |
+
+
+<br><hr><br>
+
+
 #### The Art Of Programming [site](http://blog.golodnyj.ru/), [rss](http://theartofprogramming.podbean.com/feed/)
 
 Подкаст о технологиях и разработке программного обеспечения.

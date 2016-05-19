@@ -200,7 +200,7 @@ JavaScript, 0% воды
 
 #### Radio QA [site](http://radio-qa.com/), [itunes](http://vk.cc/42FSH7), [facebook](http://facebook.com/radioqa), [vk](http://vk.com/radioqa), [twitter](http://twitter.com/radio_qa)
 
-Подкаст не только о тестировании, выходит раз в две недели 
+Подкаст не только о тестировании, выходит раз в две недели
 
 | Ведущие             | blog                                          |
 | :------------------ | ------------------------------------------    |
@@ -242,9 +242,9 @@ JavaScript, 0% воды
 
 Подкаст о технологиях, процессах, инфраструктуре и людях в IT-компаниях.
 
-| Ведущие                 | 
-| :---------------------- | 
-| Александр Астапенко     | 
+| Ведущие                 |
+| :---------------------- |
+| Александр Астапенко     |
 | Павел Павлов            |
 
 
@@ -357,7 +357,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 <br><hr><br>
 
 
-#### Веб-стандарты [SoundCloud](https://soundcloud.com/web-standards), [rss](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss), [itunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016) 
+#### Веб-стандарты [SoundCloud](https://soundcloud.com/web-standards), [rss](http://feeds.soundcloud.com/users/soundcloud:users:202737209/sounds.rss), [itunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
 
 Подкаст сообщества «Веб-стандарты» с новостями фронтенда за минувшую неделю.
 
@@ -390,3 +390,17 @@ RubyNoName подкаст — это русскоязычный подкаст �
 #### Подкаст сайта jff.name про фриланс [site](http://jff.name/freelance-podcast/), [itunes](https://itunes.apple.com/ru/podcast/podkast-pro-frilans-jff.name/id1015952378), [youtube](https://www.youtube.com/channel/UCL7w_ERUj-1XDHw2S1prYYw/videos)
 
 Подкаст про фриланс и все, что с ним связанно. Основная тема —  иностранные биржи Upwork(oDesk, Elance).
+
+
+
+<br><hr><br>
+
+
+#### Две столицы [site](http://2capitals.space), [YouTube](http://https://www.youtube.com/channel/UCVyA6ONMsbIB-TSLZO8HNmQ), [ВКонтакте](https://new.vk.com/podcast2capitals), [Telegaram](https://new.vk.com/podcast2capitals)
+
+Домашний и уютный подкаст последних событий, "горячих" вопросов WEB индустрии, сайтопродвижения, IT разработки и около того. Кухонные разговоры о высоких технологиях.
+
+| Ведущие              | VK                                                | Facebook                                               |
+| :------------------- | ------------------------------------------------- | ------------------------------------------------------ |
+| Дмитрий Филатов      | [@dimaeatworld](https://new.vk.com/dimaeatworld)  | [@dimaeatworld](https://www.facebook.com/dimaeatworld) |
+| Дмитрий Борисов      | [@Кулинар](https://new.vk.com/id4747293)          | [@Кулинар](https://www.facebook.com/dmitriy.kulinar)   |

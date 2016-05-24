@@ -396,7 +396,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 <br><hr><br>
 
 
-#### Две столицы [site](http://2capitals.space), [YouTube](http://https://www.youtube.com/channel/UCVyA6ONMsbIB-TSLZO8HNmQ), [ВКонтакте](https://new.vk.com/podcast2capitals), [Telegaram](https://new.vk.com/podcast2capitals)
+#### Две столицы [site](http://2capitals.space), [YouTube](https://www.youtube.com/channel/UCVyA6ONMsbIB-TSLZO8HNmQ), [ВКонтакте](https://new.vk.com/podcast2capitals), [Telegaram](https://new.vk.com/podcast2capitals)
 
 Домашний и уютный подкаст последних событий, "горячих" вопросов WEB индустрии, сайтопродвижения, IT разработки и около того. Кухонные разговоры о высоких технологиях.
 

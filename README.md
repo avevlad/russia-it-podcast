@@ -226,7 +226,7 @@ JavaScript, 0% воды
 
 <br><hr><br>
 
-#### Solo on .NET [podfm](https://spbaltnet.podfm.ru/solo/), [itunes](https://itunes.apple.com/de/podcast/solo-on-.net/id730081104?mt=2)
+#### Solo on .NET [podfm](https://spbaltnet.podfm.ru/solo/), [itunes](https://itunes.apple.com/ru/podcast/solo-on-.net/id730081104)
 
 Подкаст про разработку программного обеспечения (программирование). Обсуждаемые темы - C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA и многое другое.
 

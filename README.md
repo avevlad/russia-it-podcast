@@ -26,7 +26,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### Радио-Т [site](http://www.radio-t.com/), [itunes](http://vk.cc/1Fad2N), [pirates version](http://pirates.radio-t.com/)
+#### Радио-Т ([#radiot](https://twitter.com/search?q=%23radiot)) [site](http://www.radio-t.com/), [itunes](http://vk.cc/1Fad2N), [pirates version](http://pirates.radio-t.com/)
 
 Разговоры на темы хайтек, высоких компьютерных технологий, гаджетов, облаков, программирования и прочего интересного из мира ИТ.
 
@@ -42,7 +42,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### GolangShow (@GolangShow, #GolangShow): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
+#### GolangShow (@GolangShow, ([#GolangShow](https://twitter.com/search?q=%23GolangShow))): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
 
 Русскоязычный подкаст о Go.
 
@@ -141,7 +141,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### Разбор Полетов (#razborpoletov): [site](http://razbor-poletov.com/), [fan site](http://pilots.razbor-poletov.com/#/),  [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G), [g+](https://plus.google.com/+Razbor-poletov/about), [facebook](https://www.facebook.com/razborPoletovPodcast).
+#### Разбор Полетов ([#razborpoletov](https://twitter.com/search?q=%23razborpoletov))): [site](http://razbor-poletov.com/), [fan site](http://pilots.razbor-poletov.com/#/),  [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G), [g+](https://plus.google.com/+Razbor-poletov/about), [facebook](https://www.facebook.com/razborPoletovPodcast).
 
  Подкаст о технологиях и разработке программного обеспечения.
 

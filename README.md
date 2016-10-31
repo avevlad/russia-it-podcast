@@ -259,7 +259,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 | Ведущие             | github                                     | twitter                                     |
 | :------------------ | ------------------------------------------ | ------------------------------------------- |
 | Андрей Дерябин      | [@aderyabin](https://github.com/aderyabin) | [@aderyabin](https://twitter.com/aderyabin) |
-| Кир Шатров          | [@kirs](https://github.com/kirs)           | [@twitter](https://twitter.com/kirs)        |
+| Кир Шатров          | [@kirs](https://github.com/kirs)           | [@kirs](https://twitter.com/kirs)        |
 
 
 <br><hr><br>

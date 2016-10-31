@@ -199,3 +199,19 @@ JavaScript, 0% воды
 | Ведущие             | twitter                                  | github                                   |
 | :------------------ | ---------------------------------------- | ---------------------------------------- |
 | Дмитрий Нестерук    | [twitter](https://twitter.com/dnesteruk) | [github](https://github.com/nesteruk)    |
+
+<br><hr><br>
+
+
+#### Scalalaz [site](http://scalalaz.ru/), [itunes](https://itunes.apple.com/ru/podcast/scalalaz-podcast/id1156356598)
+
+Scalalaz - русскоязычный подкаст о Scala.
+
+| Ведущие             | github                                     |
+| :------------------ | -----------------------------------------  |
+| Алексей Романчук    | [@13h3r](http://github.com/13h3r)          |
+| Вадим Челышов       | [@dos65](http://github.com/dos65)          |
+| Евгений Токарев     | [@strobe](http://github.com/strobe)        |
+| Виктор Тараненко    | [@viktortnk](http://github.com/viktortnk)  |
+| Алексей Фомкин      | [@fomkin](http://github.com/fomkin)        |
+

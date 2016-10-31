@@ -238,14 +238,14 @@ JavaScript, 0% воды
 <br><hr><br>
 
 
-#### CTOcast [site](http://ctocast.com/), [itunes](https://itunes.apple.com/ru/podcast/ctocast/id945496997), [rss](http://feeds.feedburner.com/CTOcast)
+#### CTOcast ([#ctocast](https://twitter.com/search?q=%23ctocast)) [site](http://ctocast.com/), [itunes](https://itunes.apple.com/ru/podcast/ctocast/id945496997), [rss](http://feeds.feedburner.com/CTOcast)
 
 Подкаст о технологиях, процессах, инфраструктуре и людях в IT-компаниях.
 
-| Ведущие                 |
-| :---------------------- |
-| Александр Астапенко     |
-| Павел Павлов            |
+| Ведущие                 | twitter                                         | Facebook                                         |
+| :---------------------- | ----------------------------------------------- | ------------------------------------------------ |
+| Александр Астапенко     | [@aaliaksandr](https://twitter.com/aaliaksandr) | [@astapenka](https://www.facebook.com/astapenka) |
+| Павел Павлов            |                                                 |                                                  |
 
 
 <br><hr><br>

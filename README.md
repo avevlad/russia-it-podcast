@@ -475,3 +475,26 @@ Scalalaz - русскоязычный подкаст о Scala.
 | Виктор Тараненко    | [@viktortnk](http://github.com/viktortnk)  |
 | Алексей Фомкин      | [@fomkin](http://github.com/fomkin)        |
 
+
+
+<br><hr><br>
+
+#### Лучеедство [site](https://soundcloud.com/user-282862424)
+
+Лучеедство - подкаст про erlang, elixir.
+
+
+
+<br><hr><br>
+
+#### Two Devs One Ops [site](http://2d1o.ru/episodes/s01e01.html)
+
+Two Devs One Ops - подкаст про DevOps и современный стек.
+
+| Ведущие             | Twitter                                    |
+| :------------------ | -----------------------------------------  |
+| Кирилл Толкачёв     | https://twitter.com/tolkv                  |
+| Сергей Егоров       | https://twitter.com/bsideup                |
+| Алексей Абашев      | https://twitter.com/a_abashev              |
+| Глеб Смирнов        | https://twitter.com/gvsmirnov              |
+| Александр Тарасов   | https://twitter.com/aatarasoff             |

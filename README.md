@@ -491,10 +491,10 @@ Scalalaz - русскоязычный подкаст о Scala.
 
 Two Devs One Ops - подкаст про DevOps и современный стек.
 
-| Ведущие             | Twitter                                    |
-| :------------------ | -----------------------------------------  |
-| Кирилл Толкачёв     | https://twitter.com/tolkv                  |
-| Сергей Егоров       | https://twitter.com/bsideup                |
-| Алексей Абашев      | https://twitter.com/a_abashev              |
-| Глеб Смирнов        | https://twitter.com/gvsmirnov              |
-| Александр Тарасов   | https://twitter.com/aatarasoff             |
+| Ведущие             | Twitter                                       |
+| :------------------ | --------------------------------------------- |
+| Кирилл Толкачёв     | [@tolkv](https://twitter.com/tolkv)           |
+| Сергей Егоров       | [@bsideup](https://twitter.com/bsideup)       |
+| Алексей Абашев      | [@a_abashev](https://twitter.com/a_abashev)   |
+| Глеб Смирнов        | [@gvsmirnov](https://twitter.com/gvsmirnov)   |
+| Александр Тарасов   | [@aatarasoff](https://twitter.com/aatarasoff) |

@@ -487,7 +487,7 @@ Scalalaz - русскоязычный подкаст о Scala.
 
 <br><hr><br>
 
-#### Two Devs One Ops [site](http://2d1o.ru/episodes/s01e01.html)
+#### Two Devs One Ops [site](http://2d1o.ru/episodes/s01e01.html), [rss](http://feeds.feedburner.com/2d1o)
 
 Two Devs One Ops - подкаст про DevOps и современный стек.
 

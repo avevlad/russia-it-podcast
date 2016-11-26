@@ -300,6 +300,15 @@ RubyNoName подкаст — это русскоязычный подкаст �
 
 <br><hr><br>
 
+#### Пятиминутка React [site](http://5minreact.ru), [itunes](https://itunes.apple.com/ru/podcast/patiminutka-react/id1178897992), [rss](https://podster.fm/rss.xml?pid=40281), [twitter](https://twitter.com/5minreact)
+
+Подкаст о React и смежных технологиях в мире JavaScript
+
+| Ведущие             | github                                   | twitter                                       |
+| :------------------ | ---------------------------------------- | ----------------------------------------------|
+| Пётр Мязин          | [@pqr](https://github.com/pqr)           | [@petrmyazin](https://twitter.com/petrmyazin) |
+
+<br><hr><br>
 
 #### Hangops Ru [site](http://hangops.ru/), [rss](http://hangops.ru/rss/)
 

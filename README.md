@@ -57,6 +57,15 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 
 <br><hr><br>
 
+#### Без слайдов [youtube](https://www.youtube.com/channel/UCsZx0q0zsObxo9Xvsf-CklQ/videos).
+
+| Ведущие             | twitter                                     | github                                    |
+| :------------------ | ------------------------------------------- | ----------------------------------------- |
+| Alexey Fyodorov     | [@23derevo](https://twitter.com/23derevo)   | [@23derevo](https://github.com/23derevo)  |
+
+
+<br><hr><br>
+
 #### Бананы и Линзы [site](http://bananasandlenses.net/), [itunes](https://itunes.apple.com/ru/podcast/banany-i-linzy/id1037879859)
 
 Русскоязычный подкаст о Haskell и обо всём вокруг него.

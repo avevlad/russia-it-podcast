@@ -516,3 +516,15 @@ Two Devs One Ops - подкаст про DevOps и современный сте
 | Алексей Абашев      | [@a_abashev](https://twitter.com/a_abashev)   |
 | Глеб Смирнов        | [@gvsmirnov](https://twitter.com/gvsmirnov)   |
 | Александр Тарасов   | [@aatarasoff](https://twitter.com/aatarasoff) |
+
+
+
+<br><hr><br>
+
+#### Фронтёрки [site](http://www.fronterki.fm/), [rss](https://fronterki.libsyn.com/rss), [soundcloud](https://soundcloud.com/fronterki)
+
+Подкаст про фронтенд и людей.
+
+| Ведущие             | github                                           | twitter                                       |
+| :------------------ | ------------------------------------------------ | ----------------------------------------------|
+| Тим Маринин         | [@marinintim](https://github.com/marinintim)     | [@marinintim](https://twitter.com/marinintim) |

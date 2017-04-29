@@ -183,7 +183,7 @@ JavaScript, 0% воды
 <br><hr><br>
 
 
-#### Как делают игры [site](http://galyonkin.com/podcast/), [itunes](http://vk.cc/2ZsSzE)
+#### Как делают игры [site](http://kdicast.com/), [itunes](http://vk.cc/2ZsSzE)
 
 Подкаст о создании игр.
 

@@ -528,3 +528,16 @@ Two Devs One Ops - подкаст про DevOps и современный сте
 | Ведущие             | github                                           | twitter                                       |
 | :------------------ | ------------------------------------------------ | ----------------------------------------------|
 | Тим Маринин         | [@marinintim](https://github.com/marinintim)     | [@marinintim](https://twitter.com/marinintim) |
+
+
+<br><hr><br>
+
+#### devSchacht [site](https://medium.com/devschacht), [soundcloud](https://soundcloud.com/devschacht/)
+Подкаст. Переводы. Веб-разработка.
+
+| Ведущие             | github                                           | twitter                                       |
+| :------------------ | ------------------------------------------------ | ----------------------------------------------|
+| Роман Понаморев     | [@maksugr](https://github.com/maksugr)           | [@maksUgr](https://twitter.com/maksUgr)       |
+| Андрей Мелихов      | [@amel-true](https://github.com/amel-true)       | [@amel_true](https://twitter.com/amel_true)   |
+| Вадим Яловенко      | [@yalovek](https://github.com/yalovek)           | [@yalovek](https://twitter.com/yalovek)       |
+

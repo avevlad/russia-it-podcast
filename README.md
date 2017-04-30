@@ -540,3 +540,4 @@ Two Devs One Ops - подкаст про DevOps и современный сте
 | Роман Понаморев     | [@maksugr](https://github.com/maksugr)           | [@maksUgr](https://twitter.com/maksUgr)       |
 | Андрей Мелихов      | [@amel-true](https://github.com/amel-true)       | [@amel_true](https://twitter.com/amel_true)   |
 | Вадим Яловенко      | [@yalovek](https://github.com/yalovek)           | [@yalovek](https://twitter.com/yalovek)       |
+

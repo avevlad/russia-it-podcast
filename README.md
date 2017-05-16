@@ -553,3 +553,14 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 | Стас Цыганов        | [@DevAlloy](https://github.com/DevAlloy)         | 
 | Глеб Новик          | [@novixon](https://github.com/novixon)           |                     
 
+
+<br><hr><br>
+
+#### Слава + Паша [site](https://it.asm0dey.ru/)
+Беседы на различные IT-темы, в основном: Java, backend, Docker, Kubernetes и мн. др. Комментарии/багрепорты можно оставлять на сайте или на гитхабе: https://github.com/php-coder/ps-podcast
+
+| Ведущие             | github                                           |
+| :------------------ | ------------------------------------------------ |
+| Павел Финкельштейн  | [@asm0dey](https://github.com/asm0dey)           |
+| Вячеслав Симушин    | [@php-coder](https://github.com/php-coder)       |
+

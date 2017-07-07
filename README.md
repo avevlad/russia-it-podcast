@@ -521,7 +521,7 @@ Two Devs One Ops - подкаст про DevOps и современный сте
 
 <br><hr><br>
 
-#### Фронтёрки [site](http://www.fronterki.fm/), [rss](https://fronterki.libsyn.com/rss), [soundcloud](https://soundcloud.com/fronterki)
+#### Фронтёрки [site](http://www.fronterki.fm/), [rss](https://fronterki.fireside.fm/rss), [soundcloud](https://soundcloud.com/fronterki)
 
 Подкаст про фронтенд и людей.
 

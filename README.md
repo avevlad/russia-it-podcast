@@ -363,7 +363,7 @@ RubyNoName подкаст — это русскоязычный подкаст �
 <br><hr><br>
 
 
-#### The Art Of Programming [site](http://blog.golodnyj.ru/), [itunes] (https://itunes.apple.com/ru/podcast/the-art-of-programming/id1046278525), [rss](http://theartofprogramming.podbean.com/feed/)
+#### The Art Of Programming [site](http://blog.golodnyj.ru/), [itunes](https://itunes.apple.com/ru/podcast/the-art-of-programming/id1046278525), [rss](http://theartofprogramming.podbean.com/feed/)
 
 Подкаст о технологиях и разработке программного обеспечения.
 

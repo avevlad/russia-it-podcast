@@ -54,6 +54,15 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 | Александр Морозов   | [@lk4d4math](https://twitter.com/LK4D4math) | [@lk4d4](https://github.com/lk4d4)       |
 | Елена Граховац      | [@webdeva](https://twitter.com/webdeva)     | [@rumyantseva](https://github.com/rumyantseva) |
 
+<br><hr><br>
+
+#### Базовый блок: блокчейн без буллшита
+ [telegram](https://t.me/basicblockradio), [site](https://basicblockradio.libsyn.com/), [vk](https://vk.com/basicblockradio).
+
+| Ведущие             | twitter                                                 | github                                                   |
+| :------------------ | ------------------------------------------------------- | ------------------------------------------------------- |
+| Sergei Tikhomirov   | [@serg_tikhomirov](https://twitter.com/serg_tikhomirov) | [@s-tikhomirov](https://github.com/s-tikhomirov) |
+
 
 <br><hr><br>
 

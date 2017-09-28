@@ -56,8 +56,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 
 <br><hr><br>
 
-#### Базовый блок: блокчейн без буллшита
- [telegram](https://t.me/basicblockradio), [site](https://basicblockradio.libsyn.com/), [vk](https://vk.com/basicblockradio).
+#### Базовый блок: блокчейн без буллшита [telegram](https://t.me/basicblockradio), [site](https://basicblockradio.libsyn.com/), [vk](https://vk.com/basicblockradio).
 
 | Ведущие             | twitter                                                 | github                                                   |
 | :------------------ | ------------------------------------------------------- | ------------------------------------------------------- |

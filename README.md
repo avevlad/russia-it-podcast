@@ -81,7 +81,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 
 <br><hr><br>
 
-#### Бананы и Линзы [site](http://bananasandlenses.net/), [itunes](https://itunes.apple.com/ru/podcast/banany-i-linzy/id1037879859)
+#### Бананы и Линзы [site](http://bananasandlenses.net/), [itunes](https://itunes.apple.com/ru/podcast/banany-i-linzy/id1037879859), [#BananasAndLenses](https://twitter.com/search?q=%23BananasAndLenses)
 
 Русскоязычный подкаст о Haskell и обо всём вокруг него.
 

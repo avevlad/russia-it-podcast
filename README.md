@@ -198,7 +198,7 @@ JavaScript, 0% воды
 <br><hr><br>
 
 
-#### Как делают игры [site](http://kdicast.com/), [itunes](http://vk.cc/2ZsSzE)
+#### Как делают игры ([#КакДелаютИгры](https://twitter.com/search?q=%23КакДелаютИгры)) [site](http://kdicast.com/), [itunes](http://vk.cc/2ZsSzE)
 
 Подкаст о создании игр.
 

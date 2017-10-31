@@ -95,7 +95,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### EaxCast [site](http://eax.me/tag/podcast/), [itunes](http://vk.cc/2YIFhh)
+#### EaxCast ([#EaxCast](https://twitter.com/search?q=%23EaxCast)) [site](http://eax.me/tag/podcast/), [itunes](http://vk.cc/2YIFhh)
 
 Подкаст делает особый акцент на "не мейнстримовых" технологиях, таких, как функциональное программирование и NoSQL базы данных. Впрочем, тематика не ограничивается исключительно этими вопросами. Подкаст публикуется эпизодами по 40-45 минут каждые две недели.
 

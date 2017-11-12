@@ -598,7 +598,7 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 
 | Ведущие                | twitter                                  | github                                 |
 | :--------------------- | -----------------------------------------|----------------------------------------|
-| Viacheslav Kovalevskyi | [@b0noi](https://twitter.com/b0noi)      |[@asm0dey](https://github.com/b0noi)  |
+| Viacheslav Kovalevskyi | [@b0noi](https://twitter.com/b0noi)      |[@b0noi](https://github.com/b0noi)  |
 
 
 <br><hr><br>

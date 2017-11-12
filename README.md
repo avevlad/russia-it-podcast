@@ -596,9 +596,9 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 #### RawMind [site](https://www.patreon.com/b0noi), [itunes](https://itunes.apple.com/ru/podcast/rawmind/id979046733?mt=2)
 Подкаст посвящён миру IT и не только. Здесь всё с чем связана жизнь инженера. Стандартные вопросы начинающих и опыт бывалых, а некоторые выпуски просто познакомят Вас с идеями и мнениями людей о разных темах, иногда и не связанных с IT.
 
-| Ведущие                | twitter                                          |
-| :--------------------- | ------------------------------------------------ |
-| Viacheslav Kovalevskyi | [@b0noi](https://twitter.com/b0noi)              |
+| Ведущие                | twitter                                  | github                                 |
+| :--------------------- | -----------------------------------------|----------------------------------------|
+| Viacheslav Kovalevskyi | [@b0noi](https://twitter.com/b0noi)      |[@asm0dey](https://github.com/b0noi)  |
 
 
 <br><hr><br>

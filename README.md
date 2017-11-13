@@ -609,3 +609,9 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 | Ведущие                | telegram                                         |
 | :--------------------- | ------------------------------------------------ |
 | Станислав Протасов     | [@sprotasov](https://t.me/sprotasov)             |
+
+
+<br><hr><br>
+
+#### SPB Frontend. Drinkast [itunes](https://itunes.apple.com/ru/podcast/spb-frontend-drinkcast/id1269128794), [site](https://spb-frontend.ru/podcast/)
+Подкаст питерского сообщества фронтендеров SPB Frontend.

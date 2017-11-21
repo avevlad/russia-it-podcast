@@ -574,10 +574,10 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 #### Слава + Паша [site](https://it.asm0dey.ru/)
 Беседы на различные IT-темы, в основном: Java, backend, Docker, Kubernetes и мн. др. Комментарии/багрепорты можно оставлять на сайте или на гитхабе: https://github.com/php-coder/ps-podcast
 
-| Ведущие             | github                                           |
-| :------------------ | ------------------------------------------------ |
-| Павел Финкельштейн  | [@asm0dey](https://github.com/asm0dey)           |
-| Вячеслав Симушин    | [@php-coder](https://github.com/php-coder)       |
+| Ведущие             | github                                      | twitter
+| :------------------ | ------------------------------------------- | ------------------------------------------- |
+| Павел Финкельштейн  | [@asm0dey](https://github.com/asm0dey)      | [@asm0di0](https://twitter.com/asm0di0)     |
+| Слава Семушин       | [@php-coder](https://github.com/php-coder)  | [@php_coder](https://twitter.com/php_coder) |
 
 
 <br><hr><br>

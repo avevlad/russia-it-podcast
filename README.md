@@ -621,3 +621,12 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 
 #### Фронтенд Юность (18+) [itunes](https://itunes.apple.com/ru/podcast/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C-18/id1247192730), [soundcloud](https://soundcloud.com/frontend_u), [site](http://youknow.st/)  
 Вся правда о фронтенд-разработке. Всё, о чём боятся говорить — вы услышите здесь! Смузи, вейп, ES6, REACT — вас накроет волной хайпа
+
+
+<br><hr><br>
+
+#### Sebrant chatting [itunes](https://itunes.apple.com/ru/podcast/sebrant-chatting/id1320623324?mt=2), [site](http://asebrant.libsyn.com/)
+
+| Ведущие                | twitter                                     |
+| :--------------------- | ------------------------------------------- |
+| Андрей Себрант         | [@asebrant](https://twitter.com/asebrant)   |

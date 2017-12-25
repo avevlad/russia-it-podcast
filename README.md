@@ -131,9 +131,8 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 
 | Ведущие             | github                                         | twitter                                         |
 | :------------------ | ---------------------------------------------- | ----------------------------------------------- |
-| Миша Башкиров       | [@bashmish](https://github.com/bashmish)       | [@bashmish](https://twitter.com/bashmish)       |
 | Константин Буркалев | [@KSDaemon](https://github.com/KSDaemon)       | [@KSDaemon](https://twitter.com/KSDaemon)       |
-| Андрей Саломатин    | [@filipovskii](https://github.com/filipovskii) | [@filipovskii](https://twitter.com/filipovskii) |
+| Александр Майоров   | [@frontdevops](https://github.com/frontdevops) | [@frontdevops](https://twitter.com/frontdevops) |
 
 
 <br><hr><br>

@@ -629,3 +629,14 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 | Ведущие                | twitter                                     |
 | :--------------------- | ------------------------------------------- |
 | Андрей Себрант         | [@asebrant](https://twitter.com/asebrant)   |
+
+
+<br><hr><br>
+
+#### QA Guild Podcast [soundcloud](https://soundcloud.com/user-986844915), [site](https://vk.com/qaremarks)
+
+
+| Ведущие                | twitter                                     |
+| :--------------------- | ------------------------------------------- |
+| Сергей Пирогов         | [@s_pirogov](https://twitter.com/s_pirogov) |
+

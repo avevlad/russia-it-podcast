@@ -131,9 +131,10 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 
 | Ведущие             | github                                         | twitter                                         |
 | :------------------ | ---------------------------------------------- | ----------------------------------------------- |
-| Миша Башкиров       | [@bashmish](https://github.com/bashmish)       | [@bashmish](https://twitter.com/bashmish)       |
 | Константин Буркалев | [@KSDaemon](https://github.com/KSDaemon)       | [@KSDaemon](https://twitter.com/KSDaemon)       |
-| Андрей Саломатин    | [@filipovskii](https://github.com/filipovskii) | [@filipovskii](https://twitter.com/filipovskii) |
+| Александр Майоров (с 41 выпуска)   | [@frontdevops](https://github.com/frontdevops) | [@frontdevops](https://twitter.com/frontdevops) |
+| Миша Башкиров (до 48 выпуска)       | [@bashmish](https://github.com/bashmish)       | [@bashmish](https://twitter.com/bashmish)       |
+| Андрей Саломатин (до 40 выпуска)    | [@filipovskii](https://github.com/filipovskii) | [@filipovskii](https://twitter.com/filipovskii) |
 
 
 <br><hr><br>
@@ -574,10 +575,10 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 #### Слава + Паша [site](https://it.asm0dey.ru/)
 Беседы на различные IT-темы, в основном: Java, backend, Docker, Kubernetes и мн. др. Комментарии/багрепорты можно оставлять на сайте или на гитхабе: https://github.com/php-coder/ps-podcast
 
-| Ведущие             | github                                           |
-| :------------------ | ------------------------------------------------ |
-| Павел Финкельштейн  | [@asm0dey](https://github.com/asm0dey)           |
-| Вячеслав Симушин    | [@php-coder](https://github.com/php-coder)       |
+| Ведущие             | github                                      | twitter
+| :------------------ | ------------------------------------------- | ------------------------------------------- |
+| Павел Финкельштейн  | [@asm0dey](https://github.com/asm0dey)      | [@asm0di0](https://twitter.com/asm0di0)     |
+| Слава Семушин       | [@php-coder](https://github.com/php-coder)  | [@php_coder](https://twitter.com/php_coder) |
 
 
 <br><hr><br>
@@ -630,7 +631,6 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 | :--------------------- | ------------------------------------------- |
 | Андрей Себрант         | [@asebrant](https://twitter.com/asebrant)   |
 
-
 <br><hr><br>
 
 #### QA Guild Podcast [soundcloud](https://soundcloud.com/user-986844915), [site](https://vk.com/qaremarks)
@@ -639,4 +639,3 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 | Ведущие                | twitter                                     |
 | :--------------------- | ------------------------------------------- |
 | Сергей Пирогов         | [@s_pirogov](https://twitter.com/s_pirogov) |
-

@@ -633,7 +633,7 @@ Podlodka (изначально задумывалось как [pod load cast]) 
 
 <br><hr><br>
 
-#### QA Guild Podcast [soundcloud](https://soundcloud.com/user-986844915), [site](http://automation-remarks.com/qaguild/)
+#### QA Guild Podcast [soundcloud](https://soundcloud.com/user-986844915), [itunes](https://itunes.apple.com/ua/podcast/qaguild/id1350668092?l=ru&mt=2), [site](http://automation-remarks.com/podcast/)
 
 
 | Ведущие                | twitter                                     |

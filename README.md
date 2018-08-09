@@ -652,3 +652,11 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 | :------------------- | ----------------------------------------------- |
 | Сергей Матвеенко     | [lig11](https://www.facebook.com/lig11)         |
 | Данил Иванов         | [nonamenix](https://www.facebook.com/nonamenix) |
+
+<br><hr><br>
+
+#### АйТиБорода [youtube](https://www.youtube.com/itbeard/videos).
+
+| Ведущие             | facebook                                      | instagram                                    |
+| :------------------ | --------------------------------------------- | -------------------------------------------- |
+| Алексей Картынник   | [itbeard](https://www.facebook.com/itbeard)   | [@itbeard](https://www.instagram.com/itbeard)|

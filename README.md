@@ -166,7 +166,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### Разбор Полетов ([#razborpoletov](https://twitter.com/search?q=%23razborpoletov)): [site](http://razbor-poletov.com/), [fan site](http://pilots.razbor-poletov.com/#/),  [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G), [g+](https://plus.google.com/+Razbor-poletov/about), [facebook](https://www.facebook.com/razborPoletovPodcast).
+#### Разбор Полетов ([@razbor_poletov](https://twitter.com/razbor_poletov), [#razborpoletov](https://twitter.com/search?q=%23razborpoletov)): [site](http://razbor-poletov.com/), [fan site](http://pilots.razbor-poletov.com/#/),  [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G), [g+](https://plus.google.com/+Razbor-poletov/about), [facebook](https://www.facebook.com/razborPoletovPodcast).
 
  Подкаст о технологиях и разработке программного обеспечения.
 

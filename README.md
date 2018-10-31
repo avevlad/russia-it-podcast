@@ -140,7 +140,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### SDCast [site](http://sdcast.ksdaemon.ru/), [itunes](https://itunes.apple.com/ru/podcast/software-development-podcast/id890468606), [#SDCast](https://twitter.com/search?q=%23SDCast)
+#### SDCast [site](http://sdcast.ksdaemon.ru/), [itunes](https://itunes.apple.com/ru/podcast/software-development-podcast/id890468606), [#SDCast](https://twitter.com/search?q=%23SDCast), [@SDCast_podcast](https://twitter.com/SDCast_podcast)  
 
 Подкаст о разработке ПО и его окрестностях. Интервью с разработчиками и активными участниками разных сообществ, разговоры о программировании, архитектуре, open source и смежных темах.
 

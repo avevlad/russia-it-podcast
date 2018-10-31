@@ -8,7 +8,7 @@ russia-it-podcast
 
 
 
-#### DevZen ([#DevZen](https://twitter.com/search?q=%23DevZen)) [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
+#### DevZen ([@devzen_ru](https://twitter.com/devzen_ru), [#DevZen](https://twitter.com/search?q=%23DevZen)) [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
 
 DevZen Podcast (ранее EaxCast) — единственный подкаст на русском языке о программировании, администрировании и вообще IT, который (1) выходит каждую неделю, (2) специализируется на сильно технических темах, не "мобилках", (3) и при этом не является узконаправленным, например, посвященным одному языку программирования или стеку технологий. За первый год своего существования у подкаста появилось более 3000 постоянных слушателей.
 

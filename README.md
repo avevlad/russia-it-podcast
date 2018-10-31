@@ -42,7 +42,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### GolangShow (@GolangShow, [#GolangShow](https://twitter.com/search?q=%23GolangShow)): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
+#### GolangShow ([@GolangShow](https://twitter.com/GolangShow), [#GolangShow](https://twitter.com/search?q=%23GolangShow)): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
 
 Русскоязычный подкаст о Go.
 

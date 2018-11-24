@@ -663,6 +663,15 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
+#### Витая Пара [site](https://tpair.org), [telegram](https://t.me/joinchat/BlBHnxBKkEPOY4pHEo5byQ)
+Подкаст о новостях в мире IT
+
+| Ведущие               | telegram                                      | instagram                                     |
+| :-------------------- | --------------------------------------------- | --------------------------------------------- |
+| Александр Обливальный | [@PingWin87](https://t.me/PingWin87)          | [@dj_radjazz](http://instagram.com/dj_radjazz)|
+
+<br><hr><br>
+
 #### Python Junior [youtube](https://youtu.be/dHkkHB4J7kE), [site](https://podcast.python.ru)
 В каждом выпуске разбираем актуальную для джуниоров проблему и делимся техническими хаками, которые сэкономят вам время
 

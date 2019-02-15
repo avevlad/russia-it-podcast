@@ -575,13 +575,14 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### Слава + Паша [site](https://it.asm0dey.ru/)
+#### Слава + Паша [site](https://it.asm0dey.ru/), [itunes](https://itunes.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393), [spotify](https://open.spotify.com/show/2CVUxAxYnZIndznsBsAMLJ)
 Беседы на различные IT-темы, в основном: Java, backend, Docker, Kubernetes и мн. др. Комментарии/багрепорты можно оставлять на сайте или на гитхабе: https://github.com/php-coder/ps-podcast
 
 | Ведущие             | github                                      | twitter
 | :------------------ | ------------------------------------------- | ------------------------------------------- |
 | Павел Финкельштейн  | [@asm0dey](https://github.com/asm0dey)      | [@asm0di0](https://twitter.com/asm0di0)     |
 | Слава Семушин       | [@php-coder](https://github.com/php-coder)  | [@php_coder](https://twitter.com/php_coder) |
+| Слава Артемьев      | [@viartemev](https://github.com/viartemev)  | [@viartemev](https://twitter.com/viartemev) |
 
 
 <br><hr><br>

@@ -680,4 +680,17 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 | :--------------------- | ------------------------------------------- |
 | Валентин Домбровский   |                                             |
 | Григорий Петров        | [@grigoryvp](https://twitter.com/grigoryvp) |
+
+<br><hr><br>
+
+#### SITCast [vk](https://vk.com/podcasts-143954349), [podtail](https://podtail.com/en/podcast/sitcast), [itunes](https://itunes.apple.com/us/podcast/sitcast/id1449716272?mt=2)
+Подкаст паблика Samara IT Community, в котором ведущие рассказывают о своём пути в IT и спорят на различные темы, близкие тем, кто работает в сфере IT или интересуется ей.
+
+| Ведущие             | github                                           | vk
+| :------------------ | ------------------------------------------------ | -------------------------------------------- |
+| Дмитрий Червяков    |                                                  |                                              |
+| Никита Пузанков     |                                                  |                                              |
+| Николай Сладкий     | [@nikolasmelui](https://github.com/nikolasmelui) | [@nikolasmelui](https://vk.com/nikolasmelui) |
+| Дмитрий Николаев    |                                                  |                                              |
+
  

@@ -693,4 +693,16 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 | Николай Сладкий     | [@nikolasmelui](https://github.com/nikolasmelui) | [@nikolasmelui](https://vk.com/nikolasmelui) |
 | Дмитрий Николаев    |                                                  |                                              |
 
+
+<br><hr><br>
+
+#### Цинковый прод [soundcloud](https://soundcloud.com/znprod), [itunes](https://podcasts.apple.com/ru/podcast/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4/id1458311254)
+Подкаст "Цинковый прод". Всё о разработке и IT.
+
+| Ведущие             | github                                           | vk
+| :------------------ | ------------------------------------------------ | -------------------------------------------- |
+| Антон Околелов      |                                                  |                                              |
+| Никита Васильченко  |                                                  |                                              |
+| Евгений Семёнов     |                                                  |                                              |
+
  

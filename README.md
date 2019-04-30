@@ -706,3 +706,17 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 | Евгений Семёнов     |                                                  |                                              |
 
  
+<br><hr><br>
+
+
+#### DotNet & More (.NET и не только) [site](https://dotnetmore.ru/), [rss](https://dotnetmore.ru/feed/podcast/), [vk](https://vk.com/dotnetmore), [@DotnetMore](https://twitter.com/DotnetMore), [telegram](https://t.me/dotnetmore), [telegram chat](https://t.me/dotnetmore_chat), [soundcloud](https://soundcloud.com/dotnetmore)
+
+Подкаст о .NET технологиях и не только. Все что связано с C# и F#, .NET и .NET Core, AspNet и Entity Framework, Clr и DDD, Visual Studio и Rider, а так же много других тем. И, конечно же, совершенно никогда не скатываемся в обсуждение JavaScript 😁
+
+
+| Ведущие               | github                                   | telegram
+|:----------------------| -----------------------------------------|----------------
+| Станислав Александров |                                          |
+| Наталия               |                                          |
+| Александр Кугушев     | [@kugushev](https://github.com/kugushev) | [@kugushev](https://t.me/kugushev)
+

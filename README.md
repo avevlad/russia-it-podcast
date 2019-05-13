@@ -656,11 +656,11 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### АйТиБорода [youtube](https://www.youtube.com/itbeard/videos).
+#### АйТиБорода [youtube](https://www.youtube.com/itbeard), [soundcloud](https://soundcloud.com/itbeard), [itunes](https://podcasts.apple.com/us/podcast/id1449804780).
 
-| Ведущие             | facebook                                      | instagram                                    |
-| :------------------ | --------------------------------------------- | -------------------------------------------- |
-| Алексей Картынник   | [itbeard](https://www.facebook.com/itbeard)   | [@itbeard](https://www.instagram.com/itbeard)|
+| Ведущие                     | telegram                                       | instagram                                    |
+| :---------------------------- | -------------------------------------------- | -------------------------------------------- |
+| Лекс "АйТиБорода" Картынник   | [@iamitbeard](https://www.t.me/iamitbeard)   | [@itbeard](https://www.instagram.com/itbeard)|
 
 <br><hr><br>
 

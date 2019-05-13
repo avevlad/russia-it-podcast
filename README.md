@@ -731,7 +731,7 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | :------------------ | -----------------------------------------------------|
 | Данис Тазетдинов    | [@edeniska](https://twitter.com/edeniska)            |
 | Александр Денисов   | [@shuregdenisov](https://twitter.com/shuregdenisov)  |
-| Кирилл Розов        | [@tachisis](https://twitter.com/tachisis)            |
+| Кирилл Розов        | [@kirill_rozov](https://twitter.com/kirill_rozov)    |
 | Владимир Иванов     | [@vvsevolodovich](https://twitter.com/vvsevolodovich)|
 
 

@@ -720,3 +720,18 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 | Наталия               |                                          |
 | Александр Кугушев     | [@kugushev](https://github.com/kugushev) | [@kugushev](https://t.me/kugushev)
 
+<br><hr><br>
+
+
+#### Mobile People Talks [SoundCloud](https://soundcloud.com/mobilepeopletalks), [rss](http://feeds.soundcloud.com/users/soundcloud:users:607593882/sounds.rss), [telegram](https://t.me/MobilePeopleTalks), [itunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
+
+Mobile People Talks — подкаст про мобильную разработку. И все остальное. Разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности. едущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки (iOS, Android, ReactNative, Flutter)
+
+| Ведущие             | twitter                                              |
+| :------------------ | -----------------------------------------------------|
+| Данис Тазетдинов    | [@edeniska](https://twitter.com/edeniska)            |
+| Александр Денисов   | [@shuregdenisov](https://twitter.com/shuregdenisov)  |
+| Кирилл Розов        | [@tachisis](https://twitter.com/tachisis)            |
+| Владимир Иванов     | [@vvsevolodovich](https://twitter.com/vvsevolodovich)|
+
+

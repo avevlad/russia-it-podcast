@@ -8,7 +8,7 @@ russia-it-podcast
 
 
 
-#### DevZen ([#DevZen](https://twitter.com/search?q=%23DevZen)) [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
+#### DevZen ([@devzen_ru](https://twitter.com/devzen_ru), [#DevZen](https://twitter.com/search?q=%23DevZen)) [site](http://devzen.ru/), [itunes](http://vk.cc/2YIFnf)
 
 DevZen Podcast (ранее EaxCast) — единственный подкаст на русском языке о программировании, администрировании и вообще IT, который (1) выходит каждую неделю, (2) специализируется на сильно технических темах, не "мобилках", (3) и при этом не является узконаправленным, например, посвященным одному языку программирования или стеку технологий. За первый год своего существования у подкаста появилось более 3000 постоянных слушателей.
 
@@ -26,7 +26,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### Радио-Т ([#radiot](https://twitter.com/search?q=%23radiot)) [site](http://www.radio-t.com/), [itunes](http://vk.cc/1Fad2N), [pirates version](http://pirates.radio-t.com/)
+#### Радио-Т ([@radio_t](https://twitter.com/radio_t), [#radiot](https://twitter.com/search?q=%23radiot)) [site](http://www.radio-t.com/), [itunes](http://vk.cc/1Fad2N), [pirates version](http://pirates.radio-t.com/)
 
 Разговоры на темы хайтек, высоких компьютерных технологий, гаджетов, облаков, программирования и прочего интересного из мира ИТ.
 
@@ -42,7 +42,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### GolangShow (@GolangShow, [#GolangShow](https://twitter.com/search?q=%23GolangShow)): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
+#### GolangShow ([@GolangShow](https://twitter.com/GolangShow), [#GolangShow](https://twitter.com/search?q=%23GolangShow)): [site](http://golangshow.com), [github](https://github.com/GolangShow), [itunes](https://itunes.apple.com/ru/podcast/podkast-golangshow/id1031101295).
 
 Русскоязычный подкаст о Go.
 
@@ -56,7 +56,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 
 <br><hr><br>
 
-#### Базовый блок: блокчейн без буллшита [telegram](https://t.me/basicblockradio), [site](https://basicblockradio.libsyn.com/), [vk](https://vk.com/basicblockradio).
+#### Базовый блок: блокчейн без буллшита [telegram](https://t.me/basicblockradio), [site](https://basicblockradio.libsyn.com/), [vk](https://vk.com/basicblockradio), [itunes](https://itunes.apple.com/ru/podcast/id1289965366).
 
 «Базовый блок» — русскоязычный технический подкаст о блокчейн-технологиях
 
@@ -140,7 +140,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### SDCast [site](http://sdcast.ksdaemon.ru/), [itunes](https://itunes.apple.com/ru/podcast/software-development-podcast/id890468606), [#SDCast](https://twitter.com/search?q=%23SDCast)
+#### SDCast [site](http://sdcast.ksdaemon.ru/), [itunes](https://itunes.apple.com/ru/podcast/software-development-podcast/id890468606), [#SDCast](https://twitter.com/search?q=%23SDCast), [@SDCast_podcast](https://twitter.com/SDCast_podcast)  
 
 Подкаст о разработке ПО и его окрестностях. Интервью с разработчиками и активными участниками разных сообществ, разговоры о программировании, архитектуре, open source и смежных темах.
 
@@ -166,7 +166,7 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 <br><hr><br>
 
 
-#### Разбор Полетов ([#razborpoletov](https://twitter.com/search?q=%23razborpoletov)): [site](http://razbor-poletov.com/), [fan site](http://pilots.razbor-poletov.com/#/),  [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G), [g+](https://plus.google.com/+Razbor-poletov/about), [facebook](https://www.facebook.com/razborPoletovPodcast).
+#### Разбор Полетов ([@razbor_poletov](https://twitter.com/razbor_poletov), [#razborpoletov](https://twitter.com/search?q=%23razborpoletov)): [site](http://razbor-poletov.com/), [fan site](http://pilots.razbor-poletov.com/#/),  [github](https://github.com/razbor-poletov), [itunes](http://vk.cc/2YIF7G), [g+](https://plus.google.com/+Razbor-poletov/about), [facebook](https://www.facebook.com/razborPoletovPodcast).
 
  Подкаст о технологиях и разработке программного обеспечения.
 
@@ -575,13 +575,14 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### Слава + Паша [site](https://it.asm0dey.ru/)
+#### Слава + Паша [site](https://it.asm0dey.ru/), [itunes](https://itunes.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393), [spotify](https://open.spotify.com/show/2CVUxAxYnZIndznsBsAMLJ)
 Беседы на различные IT-темы, в основном: Java, backend, Docker, Kubernetes и мн. др. Комментарии/багрепорты можно оставлять на сайте или на гитхабе: https://github.com/php-coder/ps-podcast
 
 | Ведущие             | github                                      | twitter
 | :------------------ | ------------------------------------------- | ------------------------------------------- |
 | Павел Финкельштейн  | [@asm0dey](https://github.com/asm0dey)      | [@asm0di0](https://twitter.com/asm0di0)     |
 | Слава Семушин       | [@php-coder](https://github.com/php-coder)  | [@php_coder](https://twitter.com/php_coder) |
+| Слава Артемьев      | [@viartemev](https://github.com/viartemev)  | [@viartemev](https://twitter.com/viartemev) |
 
 
 <br><hr><br>
@@ -660,3 +661,62 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 | Ведущие             | facebook                                      | instagram                                    |
 | :------------------ | --------------------------------------------- | -------------------------------------------- |
 | Алексей Картынник   | [itbeard](https://www.facebook.com/itbeard)   | [@itbeard](https://www.instagram.com/itbeard)|
+
+<br><hr><br>
+
+#### Витая Пара [site](https://tpair.org), [telegram](https://t.me/joinchat/BlBHnxBKkEPOY4pHEo5byQ)
+Подкаст о новостях в мире IT
+
+| Ведущие               | telegram                                      | instagram                                     |
+| :-------------------- | --------------------------------------------- | --------------------------------------------- |
+| Александр Обливальный | [@PingWin87](https://t.me/PingWin87)          | [@dj_radjazz](http://instagram.com/dj_radjazz)|
+
+<br><hr><br>
+
+#### Python Junior [youtube](https://youtu.be/dHkkHB4J7kE), [site](https://podcast.python.ru)
+В каждом выпуске разбираем актуальную для джуниоров проблему и делимся техническими хаками, которые сэкономят вам время
+
+| Ведущие                | twitter                                     |
+| :--------------------- | ------------------------------------------- |
+| Валентин Домбровский   |                                             |
+| Григорий Петров        | [@grigoryvp](https://twitter.com/grigoryvp) |
+
+<br><hr><br>
+
+#### SITCast [vk](https://vk.com/podcasts-143954349), [podtail](https://podtail.com/en/podcast/sitcast), [itunes](https://itunes.apple.com/us/podcast/sitcast/id1449716272?mt=2)
+Подкаст паблика Samara IT Community, в котором ведущие рассказывают о своём пути в IT и спорят на различные темы, близкие тем, кто работает в сфере IT или интересуется ей.
+
+| Ведущие             | github                                           | vk
+| :------------------ | ------------------------------------------------ | -------------------------------------------- |
+| Дмитрий Червяков    |                                                  |                                              |
+| Никита Пузанков     |                                                  |                                              |
+| Николай Сладкий     | [@nikolasmelui](https://github.com/nikolasmelui) | [@nikolasmelui](https://vk.com/nikolasmelui) |
+| Дмитрий Николаев    |                                                  |                                              |
+
+
+<br><hr><br>
+
+#### Цинковый прод [soundcloud](https://soundcloud.com/znprod), [itunes](https://podcasts.apple.com/ru/podcast/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4/id1458311254)
+Подкаст "Цинковый прод". Всё о разработке и IT.
+
+| Ведущие             | github                                           | vk
+| :------------------ | ------------------------------------------------ | -------------------------------------------- |
+| Антон Околелов      |                                                  |                                              |
+| Никита Васильченко  |                                                  |                                              |
+| Евгений Семёнов     |                                                  |                                              |
+
+ 
+<br><hr><br>
+
+
+#### DotNet & More (.NET и не только) [site](https://dotnetmore.ru/), [rss](https://dotnetmore.ru/feed/podcast/), [vk](https://vk.com/dotnetmore), [@DotnetMore](https://twitter.com/DotnetMore), [telegram](https://t.me/dotnetmore), [telegram chat](https://t.me/dotnetmore_chat), [soundcloud](https://soundcloud.com/dotnetmore)
+
+Подкаст о .NET технологиях и не только. Все что связано с C# и F#, .NET и .NET Core, AspNet и Entity Framework, Clr и DDD, Visual Studio и Rider, а так же много других тем. И, конечно же, мы совершенно никогда не скатываемся в обсуждение JavaScript 😁
+
+
+| Ведущие               | github                                   | telegram
+|:----------------------| -----------------------------------------|----------------
+| Станислав Александров |                                          |
+| Наталия               |                                          |
+| Александр Кугушев     | [@kugushev](https://github.com/kugushev) | [@kugushev](https://t.me/kugushev)
+

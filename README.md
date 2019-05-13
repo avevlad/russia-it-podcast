@@ -656,7 +656,8 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### АйТиБорода [youtube](https://www.youtube.com/itbeard), [soundcloud](https://soundcloud.com/itbeard), [itunes](https://podcasts.apple.com/us/podcast/id1449804780).
+#### АйТиБорода [youtube](https://www.youtube.com/itbeard), [soundcloud](https://soundcloud.com/itbeard), [itunes](https://podcasts.apple.com/us/podcast/id1449804780)
+Проект "АйТиБорода" посвящен жизни специалистов в сфере IT. Интервью и шэиринг около-программерским опытом. Без цензуры и ярлыков. Будет интересно :)
 
 | Ведущие                     | telegram                                       | instagram                                    |
 | :---------------------------- | -------------------------------------------- | -------------------------------------------- |

@@ -721,3 +721,18 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 | Наталия               |                                          |
 | Александр Кугушев     | [@kugushev](https://github.com/kugushev) | [@kugushev](https://t.me/kugushev)
 
+
+<br><hr><br>
+
+#### Визуальная Студия [soundcloud](https://soundcloud.com/visualnaya-studia)
+Говорим про .NET. Новинки платформы и не только. Подключайтесь :)
+
+| Ведущие                     | telegram                                     | facebook                                       |
+| :-------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| Лекс "АйТиБорода"           | [@iamitbeard](https://www.t.me/iamitbeard)   | [itbeard](https://www.facebook.com/itbeard)    |
+| Виталик "veysoff"           | [@veysoff](https://www.t.me/veysoff)         |                                                |
+| Рома "Logos"                |                                              | [ogolikhin](https://www.facebook.com/ogolikhin)|
+| Лёша "tuktonchik"           |                                              |                                                |
+| Саша "Alex"                 |                                              |                                                |
+| Макс "Max                   |                                              |                                                |
+

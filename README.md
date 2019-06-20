@@ -56,9 +56,9 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 
 <br><hr><br>
 
-#### Базовый блок: блокчейн без буллшита [telegram](https://t.me/basicblockradio), [site](https://basicblockradio.libsyn.com/), [vk](https://vk.com/basicblockradio), [itunes](https://itunes.apple.com/ru/podcast/id1289965366).
+#### Базовый блок: блокчейн без буллшита [telegram](https://t.me/basicblockradio), [site](https://basicblockradio.com/), [vk](https://vk.com/basicblockradio), [itunes](https://itunes.apple.com/ru/podcast/id1289965366).
 
-«Базовый блок» — русскоязычный технический подкаст о блокчейн-технологиях
+«Базовый блок» — русскоязычный технический подкаст о блокчейн-технологиях.
 
 Интересуетесь блокчейном, но устали от буллшита? Вам сюда. В «Базовом блоке» говорят о блокчейне по существу.
 Как поменялся курс за неделю? Сколько миллионов собрало последнее ICO? Пофиг! В «Базовом блоке» — только технологии. Обсудим последние усовершенствования в Биткойне и Эфириуме, свежие академические статьи и индустриальные конференции. Криптографические алгоритмы, механизмы консенсуса, языки смарт-контрактов.
@@ -67,7 +67,8 @@ DevZen Podcast (ранее EaxCast) — единственный подкаст 
 
 | Ведущие             | twitter                                                 | github                                                   |
 | :------------------ | ------------------------------------------------------- | ------------------------------------------------------- |
-| Sergei Tikhomirov   | [@serg_tikhomirov](https://twitter.com/serg_tikhomirov) | [@s-tikhomirov](https://github.com/s-tikhomirov) |
+| Сергей Тихомиров   | [@serg_tikhomirov](https://twitter.com/serg_tikhomirov) | [@s-tikhomirov](https://github.com/s-tikhomirov) |
+| Иван Иваницкий   | [@IvanitskiyIvan](https://twitter.com/IvanitskiyIvan) |  |
 
 
 <br><hr><br>

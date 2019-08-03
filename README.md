@@ -693,7 +693,7 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 | Дмитрий Червяков    |                                                  |                                              |
 | Никита Пузанков     |                                                  |                                              |
 | Николай Сладкий     | [@nikolasmelui](https://github.com/nikolasmelui) | [@nikolasmelui](https://vk.com/nikolasmelui) |
-| Дмитрий Николаев    |                                                  |                                              |
+| Дмитрий Николаев    | [@BooSt163](https://github.com/BooSt163)         | [@nikolaev_dd](https://vk.com/nikolaev_dd)   |
 
 
 <br><hr><br>

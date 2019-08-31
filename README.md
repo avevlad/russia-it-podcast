@@ -561,6 +561,18 @@ Two Devs One Ops - подкаст про DevOps и современный сте
 
 <br><hr><br>
 
+#### AppsCast [SoundCloud](https://soundcloud.com/appscast), [rss](http://feeds.soundcloud.com/users/soundcloud:users:594759207/sounds.rss), [telegram](https://t.me/AppsCastChatter), [itunes](https://podcasts.apple.com/ru/podcast/appscast/id1454777453), [VK](https://vk.com/appscast)
+
+Подкаст о мобильной разработке и обо всём, что с ней связано. Мы любим обсуждать Android, iOS, кроссплатформу и не равнодушны к происходящему в индустрии. Каждые две недели мы приглашаем нового гостя, обсуждаем технологии, лучшие практики, жизнь разработчиков, а так же холиварим и делимся опытом. Это выжимка лучшего контента о мобилках, которая делается специально для тебя. Меньше пустой болтовни, больше технических подробностей!
+
+| Ведущие             | twitter                                              |
+| :------------------ | -----------------------------------------------------|
+| Алексей Кудрявцев   | [@west0r](https://twitter.com/west0r)                |
+| Даниил Попов        | [@int02h](https://twitter.com/int02h)                |
+
+
+<br><hr><br>
+
 #### Podlodka Podcast [itunes](https://itunes.apple.com/us/podcast/podlodka-podcast/id1209828744), [soundcloud](https://soundcloud.com/podlodka)
 Podlodka - это еженедельное аудио-шоу про мобильную разработку и все, что с ней связано. Формат наших выпусков - это полное погружение в тему вместе с приглашенным гостем. В каждый выпуск мы зовём интересных и именитых профессионалов в разных областях.
 

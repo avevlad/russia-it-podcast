@@ -687,13 +687,14 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### Python Junior [youtube](https://youtu.be/dHkkHB4J7kE), [site](https://podcast.python.ru)
-В каждом выпуске разбираем актуальную для джуниоров проблему и делимся техническими хаками, которые сэкономят вам время
+#### Moscow Python [youtube](https://youtu.be/dHkkHB4J7kE), [site](https://podcast.python.ru)
+Подкаст для тех, кто хочет лучше разбираться в программировании на Python. Ведущие - евангелисты и сооснователи Moscow Python сообщества.
 
 | Ведущие                | twitter                                     |
 | :--------------------- | ------------------------------------------- |
 | Валентин Домбровский   |                                             |
 | Григорий Петров        | [@grigoryvp](https://twitter.com/grigoryvp) |
+| Злата Обуховская       |                                             |
 
 <br><hr><br>
 

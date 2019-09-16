@@ -492,7 +492,7 @@ Two Devs One Ops - подкаст про DevOps и современный сте
 | Рома "Logos"                |                                              | [ogolikhin](https://www.facebook.com/ogolikhin)|
 | Лёша "tuktonchik"           |                                              |                                                |
 | Саша "Alex"                 |                                              |                                                |
-| Макс "Max                   |                                              |                                                |
+| Макс "Max"                  |                                              |                                                |
 
 <br><hr><br>
 

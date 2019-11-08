@@ -711,14 +711,14 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### Цинковый прод [soundcloud](https://soundcloud.com/znprod), [itunes](https://podcasts.apple.com/ru/podcast/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4/id1458311254)
+#### Цинковый прод [soundcloud](https://soundcloud.com/znprod), [itunes](https://podcasts.apple.com/ru/podcast/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4/id1458311254), [podcasts](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NjEwNTgyNTU3L3NvdW5kcy5yc3M), [youtube](https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw), [telegram chat](https://t.me/ZnProd)
 Подкаст "Цинковый прод". Всё о разработке и IT.
 
-| Ведущие             | github                                           | vk
-| :------------------ | ------------------------------------------------ | -------------------------------------------- |
-| Антон Околелов      |                                                  |                                              |
-| Никита Васильченко  |                                                  |                                              |
-| Евгений Семёнов     |                                                  |                                              |
+| Ведущие             | twitter
+| :------------------ | --------------------------------------------------- |
+| Антон Околелов      | [@AntonOkolelov](https://twitter.com/AntonOkolelov) |
+| Никита Васильченко  | [@xenmayer](https://twitter.com/xenmayer)           |
+| Олег Грицак         | [@hack3p](https://twitter.com/hack3p)               |
 
  
 <br><hr><br>

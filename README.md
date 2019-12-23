@@ -805,9 +805,9 @@ Mobile People Talks — подкаст про мобильную разрабо�
 <br><hr><br>
 
 
-#### Generic Talks ([@GenericTalks](https://twitter.com/GenericTalks), [#GenericTalks](https://twitter.com/search?q=%23GenericTalks)): [Telegram](https://t.me/generictalks), [SoundCloud](https://soundcloud.com/generictalks), [Github](https://github.com/generictalks), [iTunes](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299), [Spotify](https://open.spotify.com/show/3VZMfTLvm4pWOe5v2Pp36c).
+#### Generic Talks ([@GenericTalks](https://twitter.com/GenericTalks), [#GenericTalks](https://twitter.com/search?q=%23GenericTalks)): [Site](https://generictalks.com), [Telegram](https://t.me/generictalks), [SoundCloud](https://soundcloud.com/generictalks), [Github](https://github.com/generictalks), [iTunes](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299), [Spotify](https://open.spotify.com/show/3VZMfTLvm4pWOe5v2Pp36c).
 
-Душевные беседы о программировании и смежных темах. Говорим о коде: высоко-  и низкоуровневых вещах, правильном использовании технологий и, конечно, производительности. Любим Go и уважаем другие языки.
+Душевные беседы о программировании и смежных темах. Говорим о коде: высоко-  и низкоуровневых вещах, правильном использовании технологий и, конечно, производительности.
 
 | Ведущие          | twitter                                            | github                                         |
 | :----------------| -------------------------------------------------- | ---------------------------------------------- |

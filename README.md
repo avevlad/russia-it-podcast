@@ -805,7 +805,7 @@ Mobile People Talks — подкаст про мобильную разрабо�
 <br><hr><br>
 
 
-#### Generic Talks [@GenericTalks](https://twitter.com/GenericTalks), [#GenericTalks](https://twitter.com/search?q=%23GenericTalks)): [Telegram](https://t.me/generictalks) [SoundCloud](https://soundcloud.com/generictalks), [github](https://github.com/generictalks), [itunes](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299) [Spotify](https://open.spotify.com/show/3VZMfTLvm4pWOe5v2Pp36c).
+#### Generic Talks ([@GenericTalks](https://twitter.com/GenericTalks), [#GenericTalks](https://twitter.com/search?q=%23GenericTalks)): [Telegram](https://t.me/generictalks) [SoundCloud](https://soundcloud.com/generictalks), [Github](https://github.com/generictalks), [iTunes](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299) [Spotify](https://open.spotify.com/show/3VZMfTLvm4pWOe5v2Pp36c).
 
 Дженерик разговоры про технологии. Любим поговорить о коде и языках программирования, как о высоко так и о низкоуровневых вещах, о правильном использовании технологий и конечно как это все заставить работать еще быстрее.
 

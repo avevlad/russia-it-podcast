@@ -803,3 +803,16 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Сергей Головин              | [@sgolovin ](https://www.t.me/sgolovin )     | [daynin](https://github.com/daynin)            |
 
 <br><hr><br>
+
+
+#### Generic Talks ([@GenericTalks](https://twitter.com/GenericTalks), [#GenericTalks](https://twitter.com/search?q=%23GenericTalks)): [Site](https://generictalks.com), [Telegram](https://t.me/generictalks), [SoundCloud](https://soundcloud.com/generictalks), [Github](https://github.com/generictalks), [iTunes](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299), [Spotify](https://open.spotify.com/show/3VZMfTLvm4pWOe5v2Pp36c).
+
+Душевные беседы о программировании и смежных темах. Говорим о коде: высоко-  и низкоуровневых вещах, правильном использовании технологий и, конечно, производительности.
+
+| Ведущие          | twitter                                            | github                                         |
+| :----------------| -------------------------------------------------- | ---------------------------------------------- |
+| Олег Ковалев     | [@oleg_kovalov](https://twitter.com/oleg_kovalov)  | [@cristaloleg](https://github.com/cristaloleg) |
+| Богдан Сторожук  | [@BStorozhuk](https://twitter.com/BStorozhuk)      | [@storozhukBM](https://github.com/storozhukBM) |
+| Искандер Шарипов | [@quasilyte](https://twitter.com/quasilyte)        | [@quasilyte](https://github.com/quasilyte)     |
+
+<br><hr><br>

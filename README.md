@@ -780,6 +780,7 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Дмитрий Пацура              | [@ovrweb](https://twitter.com/ovrweb)        | [ovr](https://github.com/ovr)                  |
 | Артем Кобзарь               | [@rage_monk](https://twitter.com/rage_monk)  | [jsmonk](https://github.com/jsmonk)            |
 
+<br><hr><br>
 
 #### Хочу в ИБ [site](https://hochu-v-ib.ru/), [rss](https://hochu-v-ib.ru/feed/mp3/), [itunes](https://podcasts.apple.com/ru/podcast/%D1%85%D0%BE%D1%87%D1%83-%D0%B2-%D0%B8%D0%B1/id1481167745), [yandex.music](https://music.yandex.by/album/8849520)
 

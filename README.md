@@ -839,3 +839,13 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Виталий Лебедев   | - |
 
 <br><hr><br>
+
+#### Между Скобок [soundcloud](https://soundcloud.com/between-braces), [twitter](https://twitter.com/between_bracers), [itunes](https://podcasts.apple.com/ru/podcast/между-скобок/id1501691253)
+
+Подкаст обо всём, что связано с разработкой на PHP.
+
+| Ведущие                     | telegram                                     | twitter                                         |
+| :-------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| Сергей Жук              | [@seregazhuk ](https://www.t.me/seregazhuk )     | [@zhukserega](https://twitter.com/zhukserega)            |
+
+<br><hr><br>

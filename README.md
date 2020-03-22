@@ -849,3 +849,13 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Сергей Жук              | [@seregazhuk ](https://www.t.me/seregazhuk )     | [@zhukserega](https://twitter.com/zhukserega)            |
 
 <br><hr><br>
+
+#### Вечерний Сниппет [soundcloud](http://soundcloud.com/esnippet/), [Apple Podcasts](https://podcasts.apple.com/podcast/id1491663108?ct=podlink&mt=2&app=podcast&ls=1), [RSS](http://feeds.soundcloud.com/users/soundcloud:users:749703376/sounds.rss), [Pod Link](https://pod.link/1491663108), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NzQ5NzAzMzc2L3NvdW5kcy5yc3M=), [Yandex Podcasts](https://music.yandex.ru/album/9535893)
+
+Разговоры про айти (интернет сервисы, приложения, девайсы и гаджеты) и немного про разработку (разработка, дизайн, управление продуктом).
+
+| Ведущие                          | telegram                                     |
+| :------------------------------- | -------------------------------------------- |
+| Женя, Макс и Виталик             | [@esnippet ](https://t.me/esnippet)          |
+
+<br><hr><br>

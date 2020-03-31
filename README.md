@@ -859,3 +859,15 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Женя, Макс и Виталик             | [@esnippet ](https://t.me/esnippet)          |
 
 <br><hr><br>
+
+#### Z-namespace [Site](https://ilyakaznacheev.github.io/z-namespace/), [RSS](http://bit.ly/z-namespace-rss), [Telegram](https://t.me/z_namespace), [Apple Podcasts](http://bit.ly/z-namespace-apple), [Yandex Podcasts](http://bit.ly/z-namespace-yandex), [Google Podcasts](http://bit.ly/z-namespace-google), [Spotify](spoti.fi/z-namespace-spotify), [Overcast](http://bit.ly/z-namespace-overcast)
+
+Хорошие практики в плохих местах. Первый русскоязычный подкаст про разработку промышленного ПО, SAP, ABAP и прочие грозные аббревиатуры.
+
+| Ведущие                     | telegram                                     | github                                         |
+| :-------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| Илья Казначеев | [@ilyakaznacheev ](https://www.t.me/ilyakaznacheev ) | [@ilyakaznacheev](https://github.com/ilyakaznacheev) |
+| Илья Виноградов | [@oisee ](https://www.t.me/oisee ) | [@oisee](https://github.com/oisee) |
+| Иван Тюменьев | [@Svirinstel ](https://www.t.me/Svirinstel ) | [@ivantyumenyev](https://github.com/ivantyumenyev) |
+
+<br><hr><br>

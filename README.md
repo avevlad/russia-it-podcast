@@ -818,7 +818,7 @@ Mobile People Talks — подкаст про мобильную разрабо�
 
 <br><hr><br>
 
-#### Geek Export [Apple Podcasts]([https://podcasts.apple.com/ru/podcast/3-%D0%BF%D1%83%D1%82%D1%8C-data-engineer-%D0%BE%D1%82-data-science-%D0%B4%D0%BE-kubernetes/id1489876173?i=1000465965777](https://podcasts.apple.com/ru/podcast/3-путь-data-engineer-от-data-science-до-kubernetes/id1489876173?i=1000465965777)) [SoundCloud](https://soundcloud.com/geekexport/data-engineer-from-science-to-kubernetes) [Яндекс Музыка](https://music.yandex.ru/album/9350528/track/62859215)  [Spotify](https://open.spotify.com/show/0uDPrQUQymvjFElFoqsVfn?si=8nOLa-dRTfeh3vecDOYBNQ) [site](https://geekexport.com/podcast)
+#### Geek Export [Apple Podcasts](https://podcasts.apple.com/ru/podcast/geek-export/id1489876173) [SoundCloud](https://soundcloud.com/geekexport/data-engineer-from-science-to-kubernetes) [Яндекс Музыка](https://music.yandex.ru/album/9350528/track/62859215)  [Spotify](https://open.spotify.com/show/0uDPrQUQymvjFElFoqsVfn?si=8nOLa-dRTfeh3vecDOYBNQ) [site](https://geekexport.com/podcast)
 
 Подкаст про карьеру в Европе для IT специалистов. Общаемся про переезд, технологии и мотивацию. Гости подкаста дают советы о том, как найти работу и что для этого делать. 
 

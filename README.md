@@ -659,7 +659,7 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### 38 попугаев [itunes](https://itunes.apple.com/ru/podcast/38-%D0%BF%D0%BE%D0%BF%D1%83%D0%B3%D0%B0%D0%B5%D0%B2/id1358472061?mt=2&ign-itsct=1358472061-1358472061&ign-itscg=0176&ign-mpt=uo%3D4), [youtube](https://www.youtube.com/channel/UCcCbL9V5uOcnvrWAg95qZbg/featured), [site](https://spbpython.guru/podcast38)
+#### 38 попугаев [itunes](https://itunes.apple.com/ru/podcast/38-%D0%BF%D0%BE%D0%BF%D1%83%D0%B3%D0%B0%D0%B5%D0%B2/id1358472061?mt=2&ign-itsct=1358472061-1358472061&ign-itscg=0176&ign-mpt=uo%3D4), [twitter](https://twitter.com/podcast38), [youtube](https://www.youtube.com/channel/UCcCbL9V5uOcnvrWAg95qZbg/featured), [site](https://spbpython.dev/podcast38)
 38 попугаев — IT-подкаст не только про Python  
 
 | Ведущие              | facebook                                        |

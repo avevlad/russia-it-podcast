@@ -650,7 +650,7 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### QA Guild Podcast [soundcloud](https://soundcloud.com/qaguild), [itunes](https://itunes.apple.com/ua/podcast/qaguild/id1350668092?l=ru&mt=2), [site](http://automation-remarks.com/podcast/)
+#### QA Guild Podcast [soundcloud](https://soundcloud.com/qaguild), [itunes](https://itunes.apple.com/ua/podcast/qaguild/id1350668092?l=ru&mt=2), [site](https://automation-remarks.com/)
 
 
 | Ведущие                | twitter                                     |

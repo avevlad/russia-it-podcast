@@ -589,7 +589,7 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### Слава + Паша [site](https://it.asm0dey.ru/), [itunes](https://itunes.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393), [spotify](https://open.spotify.com/show/2CVUxAxYnZIndznsBsAMLJ)
+#### Слава + Паша [site](https://it.asm0dey.ru/), [itunes](https://itunes.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393), [spotify](https://open.spotify.com/show/2CVUxAxYnZIndznsBsAMLJ), [twitter](https://twitter.com/pasha_slava), [telegram](https://t.me/pspodcast_group)
 Беседы на различные IT-темы, в основном: Java, backend, Docker, Kubernetes и мн. др. Комментарии/багрепорты можно оставлять на сайте или на гитхабе: https://github.com/php-coder/ps-podcast
 
 | Ведущие             | github                                      | twitter
@@ -660,7 +660,7 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 <br><hr><br>
 
-#### 38 попугаев [itunes](https://itunes.apple.com/ru/podcast/38-%D0%BF%D0%BE%D0%BF%D1%83%D0%B3%D0%B0%D0%B5%D0%B2/id1358472061?mt=2&ign-itsct=1358472061-1358472061&ign-itscg=0176&ign-mpt=uo%3D4), [youtube](https://www.youtube.com/channel/UCcCbL9V5uOcnvrWAg95qZbg/featured), [site](https://spbpython.guru/podcast38)
+#### 38 попугаев [itunes](https://itunes.apple.com/ru/podcast/38-%D0%BF%D0%BE%D0%BF%D1%83%D0%B3%D0%B0%D0%B5%D0%B2/id1358472061?mt=2&ign-itsct=1358472061-1358472061&ign-itscg=0176&ign-mpt=uo%3D4), [twitter](https://twitter.com/podcast38), [youtube](https://www.youtube.com/channel/UCcCbL9V5uOcnvrWAg95qZbg/featured), [site](https://spbpython.dev/podcast38)
 38 попугаев — IT-подкаст не только про Python
 
 | Ведущие              | facebook                                        |
@@ -741,7 +741,7 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 
 #### Mobile People Talks [SoundCloud](https://soundcloud.com/mobilepeopletalks), [rss](http://feeds.soundcloud.com/users/soundcloud:users:607593882/sounds.rss), [telegram](https://t.me/MobilePeopleTalks), [itunes](https://itunes.apple.com/ru/podcast/veb-standarty/id1080500016)
 
-Mobile People Talks — подкаст про мобильную разработку. И все остальное. Разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности. едущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки (iOS, Android, ReactNative, Flutter)
+Mobile People Talks — подкаст про мобильную разработку. И все остальное. Разные выпуски имеют разные уровни погружения и будут интересны разработчикам с разным стажем и степенью мобильности. Ведущие подкаста — разработчики с большим опытом и стажем, каждый из которых представляет свою область мобильной разработки (iOS, Android, ReactNative, Flutter)
 
 | Ведущие             | twitter                                              |
 | :------------------ | -----------------------------------------------------|
@@ -781,6 +781,7 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Дмитрий Пацура              | [@ovrweb](https://twitter.com/ovrweb)        | [ovr](https://github.com/ovr)                  |
 | Артем Кобзарь               | [@rage_monk](https://twitter.com/rage_monk)  | [jsmonk](https://github.com/jsmonk)            |
 
+<br><hr><br>
 
 #### Хочу в ИБ [site](https://hochu-v-ib.ru/), [rss](https://hochu-v-ib.ru/feed/mp3/), [itunes](https://podcasts.apple.com/ru/podcast/%D1%85%D0%BE%D1%87%D1%83-%D0%B2-%D0%B8%D0%B1/id1481167745), [yandex.music](https://music.yandex.by/album/8849520)
 
@@ -815,5 +816,59 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Олег Ковалев     | [@oleg_kovalov](https://twitter.com/oleg_kovalov)  | [@cristaloleg](https://github.com/cristaloleg) |
 | Богдан Сторожук  | [@BStorozhuk](https://twitter.com/BStorozhuk)      | [@storozhukBM](https://github.com/storozhukBM) |
 | Искандер Шарипов | [@quasilyte](https://twitter.com/quasilyte)        | [@quasilyte](https://github.com/quasilyte)     |
+
+<br><hr><br>
+
+#### Geek Export [Apple Podcasts](https://podcasts.apple.com/ru/podcast/geek-export/id1489876173) [SoundCloud](https://soundcloud.com/geekexport/data-engineer-from-science-to-kubernetes) [Яндекс Музыка](https://music.yandex.ru/album/9350528/track/62859215)  [Spotify](https://open.spotify.com/show/0uDPrQUQymvjFElFoqsVfn?si=8nOLa-dRTfeh3vecDOYBNQ) [site](https://geekexport.com/podcast)
+
+Подкаст про карьеру в Европе для IT специалистов. Общаемся про переезд, технологии и мотивацию. Гости подкаста дают советы о том, как найти работу и что для этого делать.
+
+| Ведущие      | telegram                | github                      |
+| ------------ | ----------------------- | --------------------------- |
+| Игорь Сорока | https://t.me/geekexport | https://github.com/Grenguar |
+
+<br><hr><br>
+
+#### [Сферическое лидерство](http://www.sfericheskoe-liderstvo.ru)
+
+О жизни программиста внутри компании с точки зрения программиста и его руководителя, менеджера и тимлида. Рассматриваем человеческие взаимоотношения, софт-скиллы и корпоративную культуру разработки софта.
+
+| Ведущие           | twitter                                            |
+| :---------------- | -------------------------------------------------- |
+| Даниэль Лазаренко | [@battlmonstr](https://twitter.com/battlmonstr)    |
+| Игорь Мандригин   | [@mandrigin](https://twitter.com/mandrigin)        |
+| Виталий Лебедев   | - |
+
+<br><hr><br>
+
+#### Между Скобок [soundcloud](https://soundcloud.com/between-braces), [twitter](https://twitter.com/between_bracers), [itunes](https://podcasts.apple.com/ru/podcast/между-скобок/id1501691253)
+
+Подкаст обо всём, что связано с разработкой на PHP.
+
+| Ведущие                     | telegram                                     | twitter                                         |
+| :-------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| Сергей Жук              | [@seregazhuk ](https://www.t.me/seregazhuk )     | [@zhukserega](https://twitter.com/zhukserega)            |
+
+<br><hr><br>
+
+#### Вечерний Сниппет [soundcloud](http://soundcloud.com/esnippet/), [Apple Podcasts](https://podcasts.apple.com/podcast/id1491663108?ct=podlink&mt=2&app=podcast&ls=1), [RSS](http://feeds.soundcloud.com/users/soundcloud:users:749703376/sounds.rss), [Pod Link](https://pod.link/1491663108), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NzQ5NzAzMzc2L3NvdW5kcy5yc3M=), [Yandex Podcasts](https://music.yandex.ru/album/9535893)
+
+Разговоры про айти (интернет сервисы, приложения, девайсы и гаджеты) и немного про разработку (разработка, дизайн, управление продуктом).
+
+| Ведущие                          | telegram                                     |
+| :------------------------------- | -------------------------------------------- |
+| Женя, Макс и Виталик             | [@esnippet ](https://t.me/esnippet)          |
+
+<br><hr><br>
+
+#### Z-namespace [Site](https://ilyakaznacheev.github.io/z-namespace/), [RSS](http://bit.ly/z-namespace-rss), [Telegram](https://t.me/z_namespace), [Apple Podcasts](http://bit.ly/z-namespace-apple), [Yandex Podcasts](http://bit.ly/z-namespace-yandex), [Google Podcasts](http://bit.ly/z-namespace-google), [Spotify](spoti.fi/z-namespace-spotify), [Overcast](http://bit.ly/z-namespace-overcast)
+
+Хорошие практики в плохих местах. Первый русскоязычный подкаст про разработку промышленного ПО, SAP, ABAP и прочие грозные аббревиатуры.
+
+| Ведущие                     | telegram                                     | github                                         |
+| :-------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| Илья Казначеев | [@ilyakaznacheev ](https://www.t.me/ilyakaznacheev ) | [@ilyakaznacheev](https://github.com/ilyakaznacheev) |
+| Илья Виноградов | [@oisee ](https://www.t.me/oisee ) | [@oisee](https://github.com/oisee) |
+| Иван Тюменьев | [@Svirinstel ](https://www.t.me/Svirinstel ) | [@ivantyumenyev](https://github.com/ivantyumenyev) |
 
 <br><hr><br>

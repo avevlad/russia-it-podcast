@@ -590,14 +590,34 @@ Podlodka - это еженедельное аудио-шоу про мобиль
 <br><hr><br>
 
 #### Слава + Паша [site](https://it.asm0dey.ru/), [itunes](https://itunes.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393), [spotify](https://open.spotify.com/show/2CVUxAxYnZIndznsBsAMLJ), [twitter](https://twitter.com/pasha_slava), [telegram](https://t.me/pspodcast_group)
+
+_Подкаст завершён_
+
 Беседы на различные IT-темы, в основном: Java, backend, Docker, Kubernetes и мн. др. Комментарии/багрепорты можно оставлять на сайте или на гитхабе: https://github.com/php-coder/ps-podcast
 
 | Ведущие             | github                                      | twitter
 | :------------------ | ------------------------------------------- | ------------------------------------------- |
-| Павел Финкельштейн  | [@asm0dey](https://github.com/asm0dey)      | [@asm0di0](https://twitter.com/asm0di0)     |
+| Паша Финкельштейн  | [@asm0dey](https://github.com/asm0dey)      | [@asm0di0](https://twitter.com/asm0di0)     |
 | Слава Семушин       | [@php-coder](https://github.com/php-coder)  | [@php_coder](https://twitter.com/php_coder) |
 | Слава Артемьев      | [@viartemev](https://github.com/viartemev)  | [@viartemev](https://twitter.com/viartemev) |
 
+<br><hr><br>
+
+#### Новый подкаст (2)_После_правок.final.doc [site](https://newpodcast2.live), [itunes](https://podcasts.apple.com/ru/podcast/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-2-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%BA-final-doc/id1524851032), [spotify](https://open.spotify.com/show/0EKVShQyh0y4q3EKVUhHds), [stitcher](https://www.stitcher.com/podcast/2-finaldoc?refid=stpr), [Pocket casts](https://pca.st/d5tnnfd7), [Яндекс.Музыка](https://music.yandex.ru/album/11575744), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9uZXdwb2RjYXN0Mi5saXZlL2ZlZWQvcG9kY2FzdC9uZXdwb3BkY2FzdDI?ep=14)
+
+Идейник наследник Разбора Полётов и Паша + Слава: много интересных людей говорят на технические и околотехнические вещи
+
+| Ведущие             | github                                      | twitter
+| :------------------ | ------------------------------------------- | ------------------------------------------- |
+| Паша Финкельштейн  | [@asm0dey](https://github.com/asm0dey)      | [@asm0di0](https://twitter.com/asm0di0)     |
+| Слава Артемьев      | [@viartemev](https://github.com/viartemev)  | [@viartemev](https://twitter.com/viartemev) |
+| Барух Садогурский   | [@jbaruch](https://github.com/jbaruch)      | [@jbaruch](https://twitter.com/jbaruch)     |
+| Игорь Мосягин       | [@shrimpsizemoose](https://github.com/shrimpsizemoose) | [@shrimpsizemoose](https://twitter.com/shrimpsizemoose) |
+| Саша Коэн           | [@alvcohen](https://github.com/alvcohen)    | [@alvcohen](https://twitter.com/alvcohen)   |
+| Владимир Иванов     | [@vlivanov](https://github.com/vlivanov)    | [@vvsevolodovich](https://twitter.com/vvsevolodovich) |
+| Виктор Вербицкий    | [@vektory79](https://github.com/vektory79)  | [@vektory79](https://twitter.com/vektory79) |
+| Дарья Пронина       | [@Daryaggg](https://github.com/Daryaggg)    |  |
+| Ольга Макасоева     | [@oli-kitty](https://github.com/oli-kitty)  | [@Oli_kitty](https://twitter.com/Oli_kitty) |
 
 <br><hr><br>
 

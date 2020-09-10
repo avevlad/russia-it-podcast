@@ -835,7 +835,6 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | :----------------| -------------------------------------------------- | ---------------------------------------------- |
 | Олег Ковалев     | [@oleg_kovalov](https://twitter.com/oleg_kovalov)  | [@cristaloleg](https://github.com/cristaloleg) |
 | Богдан Сторожук  | [@BStorozhuk](https://twitter.com/BStorozhuk)      | [@storozhukBM](https://github.com/storozhukBM) |
-| Искандер Шарипов | [@quasilyte](https://twitter.com/quasilyte)        | [@quasilyte](https://github.com/quasilyte)     |
 
 <br><hr><br>
 

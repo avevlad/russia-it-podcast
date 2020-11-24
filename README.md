@@ -892,3 +892,14 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Иван Тюменьев | [@Svirinstel ](https://www.t.me/Svirinstel ) | [@ivantyumenyev](https://github.com/ivantyumenyev) |
 
 <br><hr><br>
+
+#### RadioDotNet, [Site](https://radio.dotnet.ru/), [RSS](https://anchor.fm/s/f0c0ef4/podcast/rss), [Apple Podcasts](https://podcasts.apple.com/us/podcast/radiodotnet/id1484348948), [Yandex Podcasts](https://music.yandex.ru/album/12041961), [Spotify](https://open.spotify.com/show/7aoQqlqm2Abg2fb6GWZdWz), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9mMGMwZWY0L3BvZGNhc3QvcnNz), [YouTube](http://youtube.com/playlist?list=PLbxr_aGL4q3SpQ9GRn2jv-NEpvN23CUC5)
+
+Разговоры на тему .NET во всех его проявлениях, новости, статьи, библиотеки, конференции, личности и прочее интересное из мира IT.
+
+| Ведущие                     | twitter                                     | github                                         |
+| :-------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| Анатолий Кулаков | [@kulakovt ](https://twitter.com/kulakovt ) | [@kulakovt](https://github.com/kulakovt) |
+| Игорь Лабутин | [@ilabutin](https://twitter.com/ilabutin) | [@ilabutin](https://github.com/ilabutin) |
+
+<br><hr><br>

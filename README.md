@@ -903,3 +903,13 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Игорь Лабутин | [@ilabutin](https://twitter.com/ilabutin) | [@ilabutin](https://github.com/ilabutin) |
 
 <br><hr><br>
+
+#### proui5 [Site](https://proui5.ru/), - [RSS](http://rss.castbox.fm/everest/1bcc29f7ca90428c876e3d75500184c1.xml), [Telegram](https://t.me/proui5_chan), [Apple Podcasts](https://podcasts.apple.com/ru/podcast/%D0%BF%D1%80%D0%BEui5/id1531586151), [Yandex Podcasts](https://music.yandex.ru/album/12115451), [Google Podcasts](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvMWJjYzI5ZjdjYTkwNDI4Yzg3NmUzZDc1NTAwMTg0YzEueG1s), [Spotify](https://open.spotify.com/show/0MJMK5BLmCjNSAcnPy4GMS), [PodFM](https://podfm.ru/podcasts/proui5/)
+
+Первый русскоязычный подкаст о UI5 и фронтенд-разработке в мире SAP.
+
+| Ведущие                     | telegram                                     | github                                         |
+| :-------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| Илья Виноградов | [@oisee](https://www.t.me/oisee) | [@oisee](https://github.com/oisee) |
+| Ефим Паршин | [@xefimix](https://www.t.me/xefimix) | |
+| Сергей Никитин | [@snikitin_me](https://www.t.me/snikitin_me) | [@snikitin-me](https://github.com/snikitin-me) |

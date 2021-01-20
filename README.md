@@ -727,7 +727,7 @@ _Подкаст завершён_
 | Дмитрий Червяков    |                                                  |                                              |
 | Никита Пузанков     |                                                  |                                              |
 | Николай Сладкий     | [@nikolasmelui](https://github.com/nikolasmelui) | [@nikolasmelui](https://vk.com/nikolasmelui) |
-| Дмитрий Николаев    | [@BooSt163](https://github.com/BooSt163)         | [@nikolaev_dd](https://vk.com/nikolaev_dd)   |
+| Дмитрий Николаев    | [@nikolaev-dd](https://github.com/nikolaev-dd)         | [@nikolaev_dd](https://vk.com/nikolaev_dd)   |
 
 
 <br><hr><br>

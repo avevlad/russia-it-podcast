@@ -913,3 +913,13 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Илья Виноградов | [@oisee](https://www.t.me/oisee) | [@oisee](https://github.com/oisee) |
 | Ефим Паршин | [@xefimix](https://www.t.me/xefimix) | |
 | Сергей Никитин | [@snikitin_me](https://www.t.me/snikitin_me) | [@snikitin-me](https://github.com/snikitin-me) |
+
+<br><hr><br>
+
+#### Кода кода [RSS](https://anchor.fm/s/4ac67718/podcast/rss), [Telegram](https://t.me/kodakodacast), [Yandex Music](https://music.yandex.ru/album/13732143), [Apple Podcasts](https://podcasts.apple.com/podcast/id1551786898), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80YWM2NzcxOC9wb2RjYXN0L3Jzcw==), [Castbox](https://castbox.fm/vic/1551786898), [VK](https://vk.com/kodakodacast), 
+
+Подкаст о жизни в IT, без обсуждения хардкорных технологий и успешного успеха в стартапах. Говорим про инфраструктуру разработки, организацию процесса, отношения между разработчиками и карьерном пути.
+
+| Ведущие                     | telegram                                     | facebook                                         |
+| :-------------------------- | -------------------------------------------- | ---------------------------------------------- |
+| Виктор Корейша | [@koreysha](https://www.t.me/koreysha) | [koreysha.viktor](https://www.facebook.com/koreysha.viktor) |

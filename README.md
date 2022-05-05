@@ -923,3 +923,16 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Ведущие                     | telegram                                     | facebook                                         |
 | :-------------------------- | -------------------------------------------- | ---------------------------------------------- |
 | Виктор Корейша | [@koreysha](https://www.t.me/koreysha) | [koreysha.viktor](https://www.facebook.com/koreysha.viktor) |
+
+<br><hr><br>
+
+#### Data Coffee [Site](https://datacoffee.link/), [RSS](https://anchor.fm/s/5bde2c58/podcast/rss), [Telegram](https://t.me/datacoffee), [Apple Podcasts](https://podcasts.apple.com/podcast/data-coffee/id1575312052), [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81YmRlMmM1OC9wb2RjYXN0L3Jzcw==), [Amazon](https://music.amazon.com/podcasts/4828fab0-b658-4eff-a04a-9dc6aa19f5f6/DATA-COFFEE) 
+
+Еженедельный подкаст о данных. Мнения экспертов и опыт в получении, хранении, обработке, визуализации данных и принятии решений на их основе.
+
+| Ведущие                     | telegram                                     |
+| :-------------------------- | -------------------------------------------- |
+| Alex                        | [@data_diving](https://www.t.me/data_diving) |
+| Dina                        | [@aniiid](https://www.t.me/aniiid)           |
+| Mak                         | [@tuvahor](https://www.t.me/tuvahor)         |
+

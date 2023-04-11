@@ -936,3 +936,13 @@ Mobile People Talks — подкаст про мобильную разрабо�
 | Dina                        | [@aniiid](https://www.t.me/aniiid)           |
 | Mak                         | [@tuvahor](https://www.t.me/tuvahor)         |
 
+<br><hr><br>
+
+#### Тысяча фичей [Site](https://pc.st/1648026802), [RSS](https://feeds.libsyn.com/440928/rss), [Telegram](https://t.me/tfeat), [Apple Podcasts](https://podcasts.apple.com/am/podcast/%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B0-%D1%84%D0%B8%D1%87%D0%B5%D0%B9/id1648026802), [Google Podcasts](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ0MDkyOC9yc3M=), [Spotify](https://open.spotify.com/show/0kPnTcLspN1NO5eOHKSufE?si=605c6be824214e99), [Yandex Music](https://music.yandex.ru/album/23688989)
+
+Подкаст от инженера, который любит свое дело. Это инди-подкаст о вещах, с которыми сталкивается каждый разработчик: слепая печать, дизайн API, паттерны и многое другое.
+
+| Ведущие                     | telegram                                            |
+| :-------------------------- | --------------------------------------------------- |
+| Sasha                       | [@alexandr_phmv](https://twitter.com/alexandr_phmv) |
+
